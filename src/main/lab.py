@@ -162,28 +162,26 @@ def process_data():
     # TO DO:  Query for Top Spending Customers in Each City
     # Your task: Write an SQL query to find the top spending customer in each city using subqueries.
     cursor.execute("""
-        SELECT city_spending.City,
-               city_spending.customer_id,
-               city_spending.total_spent
-        FROM (
+        WITH city_spending AS (
             SELECT City,
                    customer_id,
                    ROUND(SUM(amount), 2) as total_spent
             FROM transactions
             GROUP BY City, customer_id
-        ) as city_spending
-        WHERE city_spending.total_spent = (
-            SELECT MAX(inner_spending.total_spent)
-            FROM (
-                SELECT City,
-                       customer_id,
-                       ROUND(SUM(amount), 2) as total_spent
-                FROM transactions
-                GROUP BY City, customer_id
-            ) as inner_spending
-            WHERE inner_spending.City = city_spending.City
+        ),
+        ranked AS (
+            SELECT City,
+                   customer_id,
+                   total_spent,
+                   RANK() OVER (PARTITION BY City ORDER BY total_spent DESC) as rank
+            FROM city_spending
         )
-        ORDER BY city_spending.total_spent DESC
+        SELECT City,
+               customer_id,
+               total_spent
+        FROM ranked
+        WHERE rank = 1
+        ORDER BY total_spent DESC
                    """)
     
     top_city_customers = cursor.fetchall()

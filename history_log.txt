@@ -1,7 +1,7 @@
-commit 815401e310e128b76abd3bd01bfd31cd08fda067
+commit 75d7891587dfcf059a01a2c113a6a634ff2fd827
 Author: Joseph Curtis <3443776+joseph-curtis@users.noreply.github.com>
-Date:   Fri Feb 20 22:55:06 2026 -0800
+Date:   Fri Feb 20 23:07:38 2026 -0800
 
-    Added SQL queries and terminal output
+    Fixed bug in Hadoop vs Spark SQL query
 
- 3 files changed, 131 insertions(+), 13 deletions(-)
+ 3 files changed, 9 insertions(+), 5 deletions(-)

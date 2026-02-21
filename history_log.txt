@@ -1,7 +1,7 @@
-commit 1b4763212169afcbd0bb75da184f940c290675de
+commit 9c6612da229dc51299d2aa3241405e9a807978b0
 Author: Joseph Curtis <3443776+joseph-curtis@users.noreply.github.com>
-Date:   Fri Feb 20 19:25:37 2026 -0800
+Date:   Fri Feb 20 19:54:09 2026 -0800
 
-    initial commit from downloaded lab project
+    added .gitignore & module files
 
- 9 files changed, 1129 insertions(+)
+ 6 files changed, 246 insertions(+)

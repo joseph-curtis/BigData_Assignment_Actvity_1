@@ -16,3 +16,6 @@ This lab is designed to help you process CSV transactions using Python and SQL.
 - The code should read the CSV file, perform basic analysis, and store data in an SQLite database.
 
 Good luck! 🚀
+
+## Rendered Output (terminal):
+<img src="output_screenshot.PNG" alt="report output" width="785" height="665" align="center">   

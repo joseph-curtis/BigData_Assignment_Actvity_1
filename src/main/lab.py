@@ -62,7 +62,7 @@ def process_data():
     top_products = cursor.fetchall()
     print("\n🏆 Top 5 Most Sold Products:")
     for row in top_products:
-        print(f"  Product: {row[0]}, Number Sold: {row[1]}")
+        print(f"  Product: {row[0]:19} | Number Sold: {row[1]:3}")
 
 
     # TO DO:  Query for Monthly Revenue Trend
@@ -78,7 +78,7 @@ def process_data():
     monthly_revenue = cursor.fetchall()
     print("\n📅 Monthly Revenue Trend:")
     for row in monthly_revenue:
-        print(f"  Month: {row[0]}, Total Revenue: ${row[1]}")
+        print(f"  Month: {row[0]:6} | Total Revenue: ${row[1]:>10,.2f}")
 
 
     # TO DO:  Query for Payment Method Popularity
@@ -95,7 +95,7 @@ def process_data():
     payment_methods = cursor.fetchall()
     print("\n💳 Payment Method Popularity:")
     for row in payment_methods:
-        print(f"  Payment Method: {row[0]:<12}, Transactions: {row[1]:>9,}, Share: {row[2]:>5.1f}%")
+        print(f"  Payment Method: {row[0]:11} | Transactions: {row[1]:3,} | Share: {row[2]:>3.1f}%")
 
 
     # TO DO:  Query for Top 5 Cities with Most Transactions
@@ -112,7 +112,7 @@ def process_data():
     top_cities = cursor.fetchall()
     print("\n🏙️ Top 5 Cities with Most Transactions:")
     for row in top_cities:
-        print(f"  City: {row[0]}, Transactions: {row[1]}")
+        print(f"  City: {row[0]:<13} | Transactions: {row[1]:3}")
 
 
     # TO DO:  Query for Top 5 High-Spending Customers
@@ -130,7 +130,7 @@ def process_data():
     top_customers = cursor.fetchall()
     print("\n💰 Top 5 High-Spending Customers:")
     for row in top_customers:
-        print(f"  Customer ID: {row[0]}, Total Spent: ${row[1]}, Transactions: {row[2]}")
+        print(f"  Customer ID: {row[0]:3} | Total Spent: ${row[1]:>8,.2f} | Transactions: {row[2]:3}")
 
 
     # TO DO:  Query for Hadoop vs Spark Related Product Sales
@@ -156,7 +156,7 @@ def process_data():
     hadoop_spark_sales = cursor.fetchall()
     print("\n🐘 Hadoop vs ⚡ Spark Related Product Sales:")
     for row in hadoop_spark_sales:
-        print(f"  Category: {row[0]}, Transactions: {row[1]}, Total Revenue: ${row[2]}")
+        print(f"  Category: {row[0]:<6} | Transactions: {row[1]:>3} | Total Revenue: ${row[2]:>9,.2f}")
 
 
     # TO DO:  Query for Top Spending Customers in Each City
@@ -187,7 +187,7 @@ def process_data():
     top_city_customers = cursor.fetchall()
     print("\n🤑 Top Spending Customer in Each City:")
     for row in top_city_customers:
-        print(f"  City: {row[0]}, Customer ID: {row[1]}, Total Spent: ${row[2]}")
+        print(f"  City: {row[0]:<13} | Customer ID: {row[1]:>3} | Total Spent: ${row[2]:>8,.2f}")
 
 
     # Step 8: Close the connection

@@ -1,7 +1,7 @@
-commit 75d7891587dfcf059a01a2c113a6a634ff2fd827
+commit 1f641a0b1aac2c3dc9c9ae0028c5cc89d942822e
 Author: Joseph Curtis <3443776+joseph-curtis@users.noreply.github.com>
-Date:   Fri Feb 20 23:07:38 2026 -0800
+Date:   Fri Feb 20 23:21:05 2026 -0800
 
-    Fixed bug in Hadoop vs Spark SQL query
+    Changed SQL query to for top customers in each city to fix duplication bug -- now uses Common Table Expressions for customer spending and rank order
 
- 3 files changed, 9 insertions(+), 5 deletions(-)
+ 3 files changed, 18 insertions(+), 20 deletions(-)

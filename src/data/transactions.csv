@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,Product,Amount,TransactionDate,PaymentMethod,City,Category
+1,CUST050,Spark Intro,356.94,2025-03-14,Cash,Houston,Tech
+2,CUST091,Big Data Essentials,421.85,2025-03-02,PayPal,Seattle,Big Data
+3,CUST052,Hadoop Basics,63.01,2025-03-02,Credit Card,San Francisco,Big Data
+4,CUST027,Spark Intro,334.12,2025-03-22,Credit Card,New York,Big Data
+5,CUST028,Python for Data,195.43,2025-03-15,Debit Card,Los Angeles,Tech
+6,CUST081,Big Data Essentials,458.23,2025-03-19,PayPal,Houston,Programming
+7,CUST083,Hadoop Advanced,465.15,2025-03-06,PayPal,New York,Programming
+8,CUST003,Spark Advanced,398.32,2025-03-25,PayPal,Houston,Tech
+9,CUST086,Spark Intro,180.99,2025-03-22,Credit Card,Los Angeles,Tech
+10,CUST003,Big Data Essentials,401.49,2025-03-02,Debit Card,Los Angeles,Big Data
+11,CUST095,Python for Data,479.22,2025-03-04,Cash,Seattle,Tech
+12,CUST069,Spark Intro,450.13,2025-03-25,Cash,San Francisco,Big Data
+13,CUST022,Hadoop Basics,293.49,2025-03-26,Cash,San Francisco,Programming
+14,CUST042,Big Data Essentials,357.01,2025-03-28,Credit Card,Los Angeles,Programming
+15,CUST063,Spark Advanced,383.28,2025-03-14,Debit Card,San Francisco,Big Data
+16,CUST037,Spark Advanced,280.5,2025-03-09,PayPal,Houston,Big Data
+17,CUST004,Spark Advanced,447.48,2025-03-24,Cash,Houston,Big Data
+18,CUST068,Python for Data,222.82,2025-03-06,Credit Card,Seattle,Tech
+19,CUST026,Python for Data,409.15,2025-03-31,Credit Card,Chicago,Big Data
+20,CUST033,Big Data Essentials,96.81,2025-03-05,Credit Card,Chicago,Tech
+21,CUST029,Spark Intro,163.69,2025-03-23,PayPal,Houston,Programming
+22,CUST012,Spark Intro,389.14,2025-03-26,Cash,Seattle,Tech
+23,CUST024,Hadoop Basics,64.83,2025-03-21,PayPal,Houston,Programming
+24,CUST006,Big Data Essentials,55.24,2025-03-07,Credit Card,Houston,Big Data
+25,CUST051,Spark Advanced,409.11,2025-03-01,PayPal,Chicago,Big Data
+26,CUST063,Hadoop Basics,493.0,2025-03-30,PayPal,Seattle,Programming
+27,CUST084,Spark Advanced,481.73,2025-03-31,PayPal,Chicago,Big Data
+28,CUST057,Hadoop Basics,186.8,2025-03-23,Debit Card,Seattle,Big Data
+29,CUST033,Spark Intro,127.13,2025-03-10,Cash,Chicago,Programming
+30,CUST024,Python for Data,264.84,2025-03-08,PayPal,Chicago,Big Data
+31,CUST023,Spark Advanced,305.85,2025-03-24,Debit Card,Houston,Programming
+32,CUST044,Hadoop Advanced,131.99,2025-03-18,Debit Card,Houston,Tech
+33,CUST090,Spark Intro,233.83,2025-03-01,Debit Card,Seattle,Programming
+34,CUST038,Hadoop Basics,51.94,2025-03-26,Cash,New York,Programming
+35,CUST029,Hadoop Advanced,154.82,2025-03-11,Cash,Seattle,Tech
+36,CUST063,Hadoop Basics,69.96,2025-03-01,Cash,Los Angeles,Tech
+37,CUST025,Python for Data,481.73,2025-03-28,Credit Card,New York,Big Data
+38,CUST076,Spark Advanced,74.1,2025-03-09,Credit Card,Chicago,Big Data
+39,CUST011,Spark Advanced,124.56,2025-03-26,PayPal,Los Angeles,Tech
+40,CUST069,Hadoop Advanced,110.04,2025-03-18,Credit Card,Seattle,Tech
+41,CUST013,Python for Data,102.24,2025-03-15,Credit Card,Seattle,Big Data
+42,CUST082,Hadoop Advanced,484.03,2025-03-09,Cash,San Francisco,Big Data
+43,CUST060,Big Data Essentials,463.17,2025-03-05,PayPal,Los Angeles,Big Data
+44,CUST068,Hadoop Basics,54.45,2025-03-24,Credit Card,Chicago,Big Data
+45,CUST097,Spark Intro,416.73,2025-03-02,Cash,Seattle,Tech
+46,CUST057,Spark Intro,348.93,2025-03-08,Debit Card,Chicago,Tech
+47,CUST018,Hadoop Basics,56.5,2025-03-01,Debit Card,Chicago,Big Data
+48,CUST039,Hadoop Basics,148.55,2025-03-24,PayPal,Los Angeles,Big Data
+49,CUST091,Big Data Essentials,120.54,2025-03-14,PayPal,San Francisco,Programming
+50,CUST028,Hadoop Basics,196.52,2025-03-14,Credit Card,San Francisco,Big Data
+51,CUST025,Hadoop Advanced,214.05,2025-03-09,Credit Card,Houston,Programming
+52,CUST035,Hadoop Basics,113.21,2025-03-05,Debit Card,Seattle,Big Data
+53,CUST011,Spark Intro,332.43,2025-03-30,Debit Card,San Francisco,Tech
+54,CUST032,Spark Advanced,153.16,2025-03-19,PayPal,Houston,Tech
+55,CUST020,Hadoop Basics,336.01,2025-03-16,Credit Card,San Francisco,Big Data
+56,CUST066,Hadoop Advanced,58.27,2025-03-27,PayPal,New York,Programming
+57,CUST057,Hadoop Advanced,240.87,2025-03-27,PayPal,Houston,Big Data
+58,CUST093,Hadoop Basics,381.09,2025-03-01,PayPal,San Francisco,Big Data
+59,CUST005,Hadoop Advanced,493.5,2025-03-31,Debit Card,Seattle,Programming
+60,CUST001,Python for Data,129.45,2025-03-16,Credit Card,New York,Tech
+61,CUST018,Hadoop Basics,491.68,2025-03-27,Cash,New York,Tech
+62,CUST065,Big Data Essentials,162.64,2025-03-02,Cash,Chicago,Big Data
+63,CUST097,Big Data Essentials,68.61,2025-03-27,Cash,New York,Programming
+64,CUST073,Big Data Essentials,288.55,2025-03-03,PayPal,Chicago,Tech
+65,CUST050,Spark Intro,265.39,2025-03-18,Cash,Chicago,Tech
+66,CUST028,Big Data Essentials,482.91,2025-03-28,Debit Card,New York,Big Data
+67,CUST064,Spark Advanced,412.44,2025-03-29,Debit Card,San Francisco,Tech
+68,CUST083,Spark Advanced,367.84,2025-03-20,Debit Card,Chicago,Big Data
+69,CUST093,Hadoop Advanced,464.47,2025-03-18,Cash,San Francisco,Tech
+70,CUST004,Spark Intro,380.57,2025-03-14,Credit Card,Los Angeles,Big Data
+71,CUST035,Spark Intro,92.1,2025-03-29,Credit Card,Los Angeles,Tech
+72,CUST085,Spark Intro,138.03,2025-03-07,PayPal,Los Angeles,Programming
+73,CUST063,Big Data Essentials,457.65,2025-03-01,PayPal,Houston,Big Data
+74,CUST100,Spark Advanced,69.38,2025-03-05,Credit Card,Chicago,Programming
+75,CUST090,Spark Intro,133.84,2025-03-07,Cash,Houston,Big Data
+76,CUST079,Spark Intro,453.6,2025-03-02,Credit Card,Los Angeles,Tech
+77,CUST064,Python for Data,455.22,2025-03-11,Debit Card,Chicago,Programming
+78,CUST025,Python for Data,184.32,2025-03-16,PayPal,New York,Programming
+79,CUST043,Hadoop Advanced,374.14,2025-03-12,Cash,Chicago,Programming
+80,CUST099,Spark Intro,426.86,2025-03-26,Cash,New York,Big Data
+81,CUST082,Big Data Essentials,351.91,2025-03-31,Debit Card,Los Angeles,Tech
+82,CUST018,Spark Advanced,53.58,2025-03-15,PayPal,San Francisco,Tech
+83,CUST080,Spark Advanced,160.34,2025-03-28,Cash,San Francisco,Big Data
+84,CUST093,Big Data Essentials,431.34,2025-03-25,Cash,Houston,Big Data
+85,CUST036,Spark Advanced,455.91,2025-03-19,Cash,San Francisco,Big Data
+86,CUST100,Hadoop Advanced,136.74,2025-03-05,Credit Card,Chicago,Big Data
+87,CUST095,Python for Data,271.31,2025-03-15,Debit Card,New York,Programming
+88,CUST030,Hadoop Advanced,469.02,2025-03-16,Credit Card,New York,Tech
+89,CUST073,Spark Intro,275.5,2025-03-04,Cash,Los Angeles,Big Data
+90,CUST005,Big Data Essentials,430.08,2025-03-19,Debit Card,Seattle,Tech
+91,CUST076,Spark Intro,165.91,2025-03-02,Credit Card,New York,Programming
+92,CUST092,Big Data Essentials,225.37,2025-03-05,Debit Card,Los Angeles,Tech
+93,CUST067,Hadoop Basics,191.47,2025-03-28,Debit Card,Los Angeles,Big Data
+94,CUST057,Python for Data,361.79,2025-03-17,Cash,Seattle,Tech
+95,CUST021,Hadoop Basics,70.34,2025-03-20,Cash,San Francisco,Programming
+96,CUST036,Hadoop Basics,343.39,2025-03-14,Cash,New York,Big Data
+97,CUST084,Big Data Essentials,392.21,2025-03-31,Debit Card,Los Angeles,Tech
+98,CUST077,Big Data Essentials,317.34,2025-03-04,Credit Card,Seattle,Tech
+99,CUST085,Python for Data,274.0,2025-03-25,Debit Card,Houston,Tech
+100,CUST018,Python for Data,398.26,2025-03-10,Debit Card,Chicago,Tech
+101,CUST097,Python for Data,314.66,2025-03-18,Cash,Chicago,Big Data
+102,CUST031,Big Data Essentials,245.69,2025-03-28,Cash,New York,Programming
+103,CUST011,Python for Data,436.42,2025-03-19,Credit Card,New York,Tech
+104,CUST100,Spark Intro,382.26,2025-03-19,Cash,Houston,Programming
+105,CUST081,Big Data Essentials,264.29,2025-03-23,Debit Card,San Francisco,Programming
+106,CUST050,Big Data Essentials,367.89,2025-03-20,Credit Card,Seattle,Tech
+107,CUST009,Spark Intro,490.69,2025-03-24,Credit Card,Chicago,Big Data
+108,CUST037,Big Data Essentials,411.96,2025-03-03,PayPal,Chicago,Tech
+109,CUST089,Spark Intro,325.97,2025-03-29,PayPal,Los Angeles,Tech
+110,CUST074,Hadoop Advanced,236.86,2025-03-24,Credit Card,Houston,Programming
+111,CUST048,Hadoop Basics,219.78,2025-03-08,Credit Card,Seattle,Big Data
+112,CUST034,Big Data Essentials,203.84,2025-03-10,Credit Card,Los Angeles,Big Data
+113,CUST061,Spark Advanced,408.08,2025-03-14,Cash,Seattle,Programming
+114,CUST007,Spark Intro,181.13,2025-03-11,Cash,Chicago,Programming
+115,CUST029,Big Data Essentials,401.42,2025-03-08,Cash,Seattle,Big Data
+116,CUST014,Big Data Essentials,263.28,2025-03-30,Credit Card,Los Angeles,Tech
+117,CUST059,Hadoop Advanced,167.78,2025-03-21,Cash,Chicago,Big Data
+118,CUST039,Python for Data,132.68,2025-03-09,Debit Card,Houston,Tech
+119,CUST055,Hadoop Advanced,253.94,2025-03-01,Cash,Seattle,Programming
+120,CUST070,Python for Data,302.69,2025-03-13,PayPal,Chicago,Tech
+121,CUST073,Hadoop Basics,169.07,2025-03-12,Credit Card,Seattle,Tech
+122,CUST041,Spark Advanced,476.59,2025-03-10,PayPal,Houston,Tech
+123,CUST012,Python for Data,97.43,2025-03-25,PayPal,New York,Programming
+124,CUST027,Spark Intro,306.64,2025-03-24,Credit Card,Houston,Programming
+125,CUST074,Hadoop Basics,362.88,2025-03-02,Cash,Seattle,Programming
+126,CUST078,Spark Intro,272.59,2025-03-14,PayPal,Los Angeles,Big Data
+127,CUST019,Python for Data,253.7,2025-03-20,Credit Card,Los Angeles,Programming
+128,CUST035,Hadoop Basics,75.05,2025-03-23,Credit Card,San Francisco,Big Data
+129,CUST031,Spark Advanced,470.48,2025-03-13,Debit Card,Los Angeles,Tech
+130,CUST042,Hadoop Advanced,131.77,2025-03-05,Cash,New York,Big Data
+131,CUST023,Hadoop Advanced,334.81,2025-03-17,PayPal,Seattle,Programming
+132,CUST098,Spark Advanced,358.26,2025-03-15,Credit Card,New York,Big Data
+133,CUST064,Python for Data,105.31,2025-03-07,Cash,New York,Programming
+134,CUST053,Hadoop Advanced,81.6,2025-03-19,Cash,New York,Programming
+135,CUST054,Hadoop Advanced,315.5,2025-03-24,PayPal,Los Angeles,Big Data
+136,CUST017,Spark Advanced,182.54,2025-03-10,Debit Card,San Francisco,Tech
+137,CUST003,Python for Data,195.79,2025-03-08,Debit Card,Seattle,Programming
+138,CUST084,Spark Intro,387.6,2025-03-17,Cash,San Francisco,Tech
+139,CUST040,Spark Intro,105.79,2025-03-26,Cash,Chicago,Big Data
+140,CUST015,Hadoop Basics,293.48,2025-03-05,Credit Card,Los Angeles,Tech
+141,CUST075,Big Data Essentials,105.99,2025-03-05,Debit Card,Chicago,Tech
+142,CUST092,Spark Advanced,461.96,2025-03-14,PayPal,Seattle,Tech
+143,CUST025,Hadoop Advanced,461.75,2025-03-06,Credit Card,Chicago,Tech
+144,CUST001,Spark Advanced,357.49,2025-03-19,Credit Card,Los Angeles,Big Data
+145,CUST055,Hadoop Basics,449.58,2025-03-08,Debit Card,New York,Programming
+146,CUST005,Spark Advanced,337.52,2025-03-03,Cash,Los Angeles,Tech
+147,CUST051,Hadoop Basics,282.02,2025-03-20,PayPal,Houston,Big Data
+148,CUST049,Python for Data,231.45,2025-03-07,Cash,Chicago,Programming
+149,CUST012,Big Data Essentials,489.59,2025-03-22,Cash,Houston,Big Data
+150,CUST008,Python for Data,473.22,2025-03-12,Debit Card,Los Angeles,Big Data
+151,CUST095,Hadoop Basics,175.95,2025-03-10,Cash,Houston,Tech
+152,CUST059,Big Data Essentials,211.27,2025-03-24,Debit Card,San Francisco,Big Data
+153,CUST035,Big Data Essentials,195.68,2025-03-08,Cash,New York,Big Data
+154,CUST097,Spark Advanced,173.58,2025-03-07,Credit Card,Seattle,Programming
+155,CUST084,Hadoop Advanced,417.8,2025-03-07,Cash,New York,Big Data
+156,CUST020,Spark Advanced,364.76,2025-03-15,Debit Card,Chicago,Big Data
+157,CUST094,Hadoop Basics,162.56,2025-03-18,Debit Card,Los Angeles,Tech
+158,CUST009,Hadoop Basics,280.38,2025-03-04,Cash,Seattle,Big Data
+159,CUST043,Spark Advanced,168.81,2025-03-19,Cash,Seattle,Big Data
+160,CUST098,Hadoop Advanced,442.86,2025-03-18,PayPal,Los Angeles,Tech
+161,CUST090,Python for Data,494.24,2025-03-17,Credit Card,Chicago,Tech
+162,CUST087,Hadoop Basics,156.23,2025-03-28,PayPal,Chicago,Big Data
+163,CUST074,Spark Advanced,274.01,2025-03-07,Debit Card,Chicago,Tech
+164,CUST077,Python for Data,479.71,2025-03-02,Credit Card,San Francisco,Big Data
+165,CUST004,Big Data Essentials,412.14,2025-03-24,PayPal,Los Angeles,Big Data
+166,CUST070,Spark Intro,120.89,2025-03-08,Debit Card,Seattle,Big Data
+167,CUST005,Big Data Essentials,115.55,2025-03-21,PayPal,Chicago,Programming
+168,CUST035,Big Data Essentials,230.8,2025-03-10,Credit Card,Seattle,Big Data
+169,CUST057,Hadoop Basics,64.52,2025-03-29,Debit Card,San Francisco,Programming
+170,CUST034,Python for Data,428.66,2025-03-28,Debit Card,Los Angeles,Tech
+171,CUST071,Spark Advanced,330.58,2025-03-14,Cash,Houston,Big Data
+172,CUST064,Spark Advanced,458.42,2025-03-03,Credit Card,Chicago,Programming
+173,CUST045,Hadoop Basics,429.7,2025-03-19,Credit Card,New York,Tech
+174,CUST044,Hadoop Advanced,396.71,2025-03-25,Debit Card,Los Angeles,Big Data
+175,CUST082,Big Data Essentials,201.81,2025-03-03,PayPal,San Francisco,Tech
+176,CUST040,Hadoop Basics,101.08,2025-03-31,Credit Card,Los Angeles,Tech
+177,CUST063,Big Data Essentials,241.85,2025-03-23,Cash,San Francisco,Programming
+178,CUST020,Hadoop Advanced,239.53,2025-03-31,Cash,Los Angeles,Programming
+179,CUST024,Spark Advanced,338.41,2025-03-05,PayPal,Chicago,Big Data
+180,CUST023,Spark Advanced,438.86,2025-03-22,PayPal,San Francisco,Tech
+181,CUST010,Python for Data,312.23,2025-03-09,PayPal,Houston,Programming
+182,CUST026,Spark Advanced,326.43,2025-03-14,Credit Card,Seattle,Big Data
+183,CUST069,Hadoop Basics,289.2,2025-03-09,Debit Card,Chicago,Programming
+184,CUST033,Hadoop Basics,242.99,2025-03-11,PayPal,Los Angeles,Programming
+185,CUST073,Spark Intro,459.91,2025-03-29,PayPal,Seattle,Tech
+186,CUST019,Python for Data,350.16,2025-03-09,Credit Card,Los Angeles,Programming
+187,CUST050,Spark Intro,278.69,2025-03-02,Credit Card,San Francisco,Programming
+188,CUST086,Big Data Essentials,68.64,2025-03-04,Cash,New York,Big Data
+189,CUST042,Hadoop Basics,94.56,2025-03-16,Credit Card,Houston,Big Data
+190,CUST081,Python for Data,74.32,2025-03-13,Debit Card,Los Angeles,Programming
+191,CUST092,Hadoop Basics,168.98,2025-03-10,Credit Card,New York,Big Data
+192,CUST012,Big Data Essentials,113.61,2025-03-16,Credit Card,New York,Programming
+193,CUST025,Spark Intro,77.26,2025-03-31,Cash,San Francisco,Big Data
+194,CUST026,Big Data Essentials,226.18,2025-03-27,Credit Card,Houston,Big Data
+195,CUST077,Hadoop Basics,50.19,2025-03-13,Cash,Chicago,Big Data
+196,CUST011,Python for Data,442.14,2025-03-06,Cash,Chicago,Programming
+197,CUST012,Spark Intro,159.46,2025-03-24,Debit Card,New York,Programming
+198,CUST086,Spark Advanced,214.62,2025-03-18,Cash,Los Angeles,Big Data
+199,CUST042,Spark Advanced,182.09,2025-03-26,Cash,San Francisco,Big Data
+200,CUST095,Hadoop Basics,358.69,2025-03-29,Cash,New York,Big Data
+201,CUST041,Big Data Essentials,114.14,2025-03-14,PayPal,Seattle,Programming
+202,CUST004,Hadoop Advanced,361.79,2025-03-09,Credit Card,Seattle,Big Data
+203,CUST047,Spark Advanced,393.97,2025-03-16,PayPal,San Francisco,Programming
+204,CUST059,Hadoop Basics,150.95,2025-03-04,Cash,Los Angeles,Programming
+205,CUST053,Spark Intro,257.68,2025-03-05,Credit Card,Chicago,Tech
+206,CUST056,Big Data Essentials,252.91,2025-03-27,Cash,Los Angeles,Programming
+207,CUST046,Python for Data,301.96,2025-03-04,Debit Card,Chicago,Big Data
+208,CUST093,Hadoop Basics,353.7,2025-03-24,Debit Card,Chicago,Tech
+209,CUST063,Spark Intro,54.19,2025-03-07,Debit Card,Seattle,Programming
+210,CUST094,Spark Intro,246.7,2025-03-23,Debit Card,Houston,Tech
+211,CUST065,Big Data Essentials,118.23,2025-03-06,Cash,New York,Programming
+212,CUST042,Spark Advanced,244.59,2025-03-13,PayPal,Houston,Programming
+213,CUST047,Spark Advanced,379.99,2025-03-03,Cash,Houston,Programming
+214,CUST033,Spark Intro,405.86,2025-03-04,Cash,Seattle,Tech
+215,CUST047,Spark Advanced,298.67,2025-03-06,PayPal,Chicago,Tech
+216,CUST009,Hadoop Basics,406.71,2025-03-11,PayPal,New York,Programming
+217,CUST034,Hadoop Advanced,294.85,2025-03-08,Cash,Los Angeles,Tech
+218,CUST048,Hadoop Basics,65.36,2025-03-16,Cash,Chicago,Big Data
+219,CUST033,Hadoop Advanced,378.47,2025-03-15,Debit Card,Seattle,Programming
+220,CUST086,Spark Intro,449.06,2025-03-05,Credit Card,Chicago,Big Data
+221,CUST011,Python for Data,375.81,2025-03-29,Credit Card,New York,Tech
+222,CUST045,Spark Intro,329.43,2025-03-04,PayPal,Los Angeles,Tech
+223,CUST065,Big Data Essentials,417.78,2025-03-14,PayPal,Chicago,Tech
+224,CUST073,Python for Data,348.5,2025-03-25,Cash,San Francisco,Programming
+225,CUST097,Spark Advanced,498.35,2025-03-29,Cash,Los Angeles,Programming
+226,CUST035,Python for Data,431.08,2025-03-10,PayPal,Seattle,Big Data
+227,CUST047,Hadoop Advanced,422.76,2025-03-04,Cash,San Francisco,Big Data
+228,CUST013,Big Data Essentials,70.59,2025-03-08,Cash,Seattle,Programming
+229,CUST085,Spark Intro,495.17,2025-03-31,Cash,Seattle,Big Data
+230,CUST031,Spark Advanced,163.63,2025-03-21,Debit Card,New York,Programming
+231,CUST018,Hadoop Advanced,236.03,2025-03-16,Debit Card,Houston,Tech
+232,CUST077,Spark Advanced,294.22,2025-03-19,Credit Card,Chicago,Big Data
+233,CUST011,Hadoop Basics,68.37,2025-03-24,Credit Card,Los Angeles,Tech
+234,CUST012,Hadoop Advanced,203.14,2025-03-05,Cash,Los Angeles,Tech
+235,CUST044,Python for Data,218.9,2025-03-22,Debit Card,San Francisco,Tech
+236,CUST053,Big Data Essentials,384.71,2025-03-27,Debit Card,Seattle,Big Data
+237,CUST066,Hadoop Basics,286.19,2025-03-11,PayPal,Seattle,Tech
+238,CUST073,Spark Intro,341.62,2025-03-18,Cash,Los Angeles,Programming
+239,CUST004,Spark Intro,225.61,2025-03-10,PayPal,Los Angeles,Big Data
+240,CUST037,Python for Data,425.35,2025-03-22,Debit Card,Houston,Big Data
+241,CUST008,Hadoop Basics,107.81,2025-03-13,Cash,Chicago,Programming
+242,CUST031,Python for Data,337.26,2025-03-01,Debit Card,New York,Programming
+243,CUST017,Big Data Essentials,213.1,2025-03-29,PayPal,Chicago,Tech
+244,CUST021,Spark Advanced,66.95,2025-03-28,PayPal,New York,Tech
+245,CUST063,Hadoop Basics,150.45,2025-03-21,Cash,San Francisco,Tech
+246,CUST029,Spark Advanced,418.63,2025-03-18,PayPal,Houston,Big Data
+247,CUST018,Spark Advanced,368.29,2025-03-31,Cash,Houston,Big Data
+248,CUST033,Python for Data,93.52,2025-03-29,PayPal,San Francisco,Programming
+249,CUST058,Big Data Essentials,332.14,2025-03-02,Cash,New York,Big Data
+250,CUST014,Big Data Essentials,51.45,2025-03-11,Cash,San Francisco,Tech
+251,CUST093,Hadoop Advanced,184.35,2025-03-31,Debit Card,Seattle,Tech
+252,CUST010,Python for Data,426.04,2025-03-09,PayPal,New York,Tech
+253,CUST019,Hadoop Advanced,486.48,2025-03-16,Credit Card,Los Angeles,Programming
+254,CUST044,Spark Advanced,340.55,2025-03-04,Cash,Los Angeles,Tech
+255,CUST066,Hadoop Advanced,468.83,2025-03-31,PayPal,Los Angeles,Tech
+256,CUST066,Spark Intro,106.5,2025-03-31,Debit Card,Los Angeles,Programming
+257,CUST025,Big Data Essentials,79.0,2025-03-27,PayPal,Los Angeles,Big Data
+258,CUST096,Hadoop Basics,340.3,2025-03-22,PayPal,New York,Programming
+259,CUST059,Spark Advanced,75.59,2025-03-13,Cash,Houston,Big Data
+260,CUST032,Hadoop Advanced,136.07,2025-03-07,Debit Card,Seattle,Programming
+261,CUST011,Spark Intro,215.77,2025-03-20,PayPal,Chicago,Programming
+262,CUST027,Python for Data,450.78,2025-03-29,PayPal,Chicago,Tech
+263,CUST088,Hadoop Basics,101.46,2025-03-01,Credit Card,Los Angeles,Tech
+264,CUST069,Python for Data,207.26,2025-03-13,Credit Card,New York,Tech
+265,CUST060,Spark Advanced,353.54,2025-03-17,Credit Card,Seattle,Big Data
+266,CUST086,Spark Intro,388.63,2025-03-22,Cash,Seattle,Big Data
+267,CUST059,Python for Data,261.92,2025-03-13,Credit Card,Los Angeles,Tech
+268,CUST019,Hadoop Advanced,426.01,2025-03-04,Credit Card,New York,Tech
+269,CUST040,Spark Advanced,187.76,2025-03-27,Debit Card,Seattle,Tech
+270,CUST071,Big Data Essentials,343.22,2025-03-23,Credit Card,Los Angeles,Big Data
+271,CUST087,Hadoop Basics,206.07,2025-03-15,Credit Card,Los Angeles,Big Data
+272,CUST056,Spark Advanced,140.05,2025-03-15,Credit Card,Los Angeles,Programming
+273,CUST023,Spark Intro,184.4,2025-03-02,Credit Card,San Francisco,Programming
+274,CUST017,Big Data Essentials,192.05,2025-03-18,Cash,Houston,Big Data
+275,CUST056,Python for Data,101.86,2025-03-29,PayPal,Los Angeles,Programming
+276,CUST001,Python for Data,130.27,2025-03-20,Debit Card,Houston,Tech
+277,CUST076,Big Data Essentials,105.37,2025-03-02,Credit Card,Los Angeles,Tech
+278,CUST022,Hadoop Advanced,466.88,2025-03-16,Debit Card,San Francisco,Big Data
+279,CUST045,Python for Data,309.4,2025-03-04,PayPal,Los Angeles,Big Data
+280,CUST066,Hadoop Advanced,488.66,2025-03-25,Credit Card,Los Angeles,Big Data
+281,CUST093,Hadoop Basics,238.42,2025-03-14,Cash,New York,Big Data
+282,CUST049,Hadoop Advanced,87.27,2025-03-09,Debit Card,Seattle,Tech
+283,CUST021,Python for Data,436.58,2025-03-27,PayPal,New York,Big Data
+284,CUST067,Big Data Essentials,124.97,2025-03-20,PayPal,New York,Programming
+285,CUST063,Python for Data,342.61,2025-03-27,PayPal,San Francisco,Programming
+286,CUST034,Hadoop Advanced,471.05,2025-03-24,Debit Card,Los Angeles,Programming
+287,CUST010,Hadoop Basics,101.87,2025-03-13,Credit Card,Houston,Tech
+288,CUST071,Spark Intro,209.8,2025-03-17,PayPal,Chicago,Tech
+289,CUST083,Python for Data,202.49,2025-03-22,Debit Card,New York,Tech
+290,CUST023,Hadoop Advanced,250.25,2025-03-08,Cash,Los Angeles,Big Data
+291,CUST096,Python for Data,340.89,2025-03-02,Credit Card,New York,Big Data
+292,CUST081,Python for Data,348.88,2025-03-20,Cash,Los Angeles,Programming
+293,CUST087,Spark Intro,174.0,2025-03-14,PayPal,Houston,Programming
+294,CUST045,Big Data Essentials,438.46,2025-03-20,Cash,Houston,Tech
+295,CUST076,Spark Intro,141.11,2025-03-05,Credit Card,Los Angeles,Tech
+296,CUST039,Hadoop Basics,469.87,2025-03-06,PayPal,New York,Tech
+297,CUST018,Spark Advanced,91.23,2025-03-09,Credit Card,Los Angeles,Big Data
+298,CUST039,Hadoop Basics,433.86,2025-03-04,PayPal,Chicago,Programming
+299,CUST090,Hadoop Basics,292.9,2025-03-27,PayPal,Los Angeles,Programming
+300,CUST025,Hadoop Advanced,298.89,2025-03-09,Credit Card,New York,Tech
+301,CUST019,Hadoop Advanced,143.98,2025-03-21,Cash,Chicago,Programming
+302,CUST058,Hadoop Advanced,222.85,2025-03-13,Cash,Seattle,Programming
+303,CUST039,Spark Advanced,352.52,2025-03-11,Credit Card,Chicago,Tech
+304,CUST024,Spark Advanced,267.32,2025-03-08,Credit Card,Chicago,Programming
+305,CUST016,Hadoop Advanced,489.44,2025-03-22,Debit Card,San Francisco,Big Data
+306,CUST051,Spark Advanced,299.27,2025-03-31,Cash,Los Angeles,Tech
+307,CUST087,Spark Intro,176.19,2025-03-18,PayPal,Chicago,Tech
+308,CUST088,Hadoop Basics,144.35,2025-03-19,Credit Card,Seattle,Big Data
+309,CUST083,Hadoop Advanced,67.57,2025-03-13,Credit Card,Chicago,Big Data
+310,CUST029,Hadoop Advanced,424.45,2025-03-29,Cash,Houston,Tech
+311,CUST059,Hadoop Basics,425.11,2025-03-07,Cash,Chicago,Tech
+312,CUST042,Spark Intro,342.45,2025-03-10,Credit Card,San Francisco,Programming
+313,CUST013,Big Data Essentials,476.85,2025-03-23,Cash,San Francisco,Tech
+314,CUST015,Python for Data,360.13,2025-03-26,Credit Card,San Francisco,Big Data
+315,CUST043,Spark Intro,351.2,2025-03-26,Debit Card,Seattle,Programming
+316,CUST077,Hadoop Basics,151.57,2025-03-18,Cash,New York,Programming
+317,CUST041,Python for Data,422.26,2025-03-09,Debit Card,Seattle,Programming
+318,CUST078,Spark Advanced,228.66,2025-03-29,Debit Card,Los Angeles,Tech
+319,CUST078,Hadoop Advanced,482.99,2025-03-23,Cash,Houston,Big Data
+320,CUST001,Spark Advanced,278.58,2025-03-24,PayPal,Chicago,Big Data
+321,CUST013,Hadoop Basics,178.64,2025-03-16,Cash,Seattle,Big Data
+322,CUST076,Hadoop Advanced,106.55,2025-03-09,Credit Card,Seattle,Tech
+323,CUST099,Spark Intro,342.95,2025-03-04,Cash,New York,Programming
+324,CUST031,Spark Intro,132.37,2025-03-19,Credit Card,Houston,Tech
+325,CUST030,Python for Data,172.74,2025-03-28,Cash,Seattle,Big Data
+326,CUST092,Python for Data,174.05,2025-03-26,Credit Card,New York,Tech
+327,CUST017,Spark Advanced,195.53,2025-03-04,Credit Card,San Francisco,Tech
+328,CUST044,Python for Data,91.74,2025-03-06,Cash,San Francisco,Programming
+329,CUST063,Hadoop Basics,282.72,2025-03-02,Debit Card,Houston,Tech
+330,CUST002,Big Data Essentials,128.83,2025-03-22,Cash,Los Angeles,Tech
+331,CUST039,Hadoop Basics,199.54,2025-03-27,Credit Card,New York,Tech
+332,CUST060,Hadoop Advanced,243.78,2025-03-02,Credit Card,San Francisco,Big Data
+333,CUST029,Big Data Essentials,399.06,2025-03-11,Cash,Houston,Programming
+334,CUST020,Hadoop Advanced,414.1,2025-03-05,Credit Card,San Francisco,Big Data
+335,CUST024,Spark Advanced,144.0,2025-03-16,Cash,New York,Big Data
+336,CUST087,Hadoop Advanced,82.29,2025-03-07,Debit Card,Los Angeles,Tech
+337,CUST070,Python for Data,329.5,2025-03-05,Debit Card,Seattle,Tech
+338,CUST098,Big Data Essentials,422.45,2025-03-03,Credit Card,Los Angeles,Programming
+339,CUST014,Hadoop Advanced,95.68,2025-03-09,Cash,San Francisco,Tech
+340,CUST035,Spark Advanced,217.89,2025-03-04,Cash,Chicago,Tech
+341,CUST013,Hadoop Advanced,360.33,2025-03-12,Debit Card,Houston,Programming
+342,CUST041,Hadoop Advanced,77.74,2025-03-25,Credit Card,Seattle,Big Data
+343,CUST066,Spark Intro,76.96,2025-03-26,PayPal,San Francisco,Big Data
+344,CUST021,Hadoop Advanced,222.38,2025-03-08,Cash,New York,Programming
+345,CUST004,Spark Intro,343.92,2025-03-10,PayPal,San Francisco,Big Data
+346,CUST033,Big Data Essentials,256.04,2025-03-17,PayPal,Seattle,Big Data
+347,CUST059,Python for Data,158.72,2025-03-29,Debit Card,Seattle,Tech
+348,CUST026,Spark Intro,422.2,2025-03-01,Credit Card,San Francisco,Programming
+349,CUST041,Hadoop Basics,172.02,2025-03-21,Debit Card,Houston,Big Data
+350,CUST002,Hadoop Basics,434.79,2025-03-21,Debit Card,New York,Big Data
+351,CUST003,Hadoop Basics,397.05,2025-03-18,PayPal,Houston,Tech
+352,CUST078,Python for Data,387.54,2025-03-06,Cash,New York,Big Data
+353,CUST077,Spark Advanced,170.29,2025-03-03,Cash,Seattle,Programming
+354,CUST046,Spark Advanced,260.77,2025-03-14,Debit Card,New York,Big Data
+355,CUST017,Spark Intro,110.85,2025-03-10,PayPal,Seattle,Tech
+356,CUST088,Spark Intro,272.85,2025-03-05,Debit Card,San Francisco,Programming
+357,CUST028,Spark Advanced,352.78,2025-03-11,Credit Card,Los Angeles,Big Data
+358,CUST004,Spark Advanced,255.91,2025-03-10,PayPal,Seattle,Programming
+359,CUST003,Hadoop Advanced,274.78,2025-03-19,PayPal,Chicago,Big Data
+360,CUST007,Big Data Essentials,179.22,2025-03-18,Credit Card,Seattle,Programming
+361,CUST091,Spark Intro,440.41,2025-03-31,PayPal,Seattle,Tech
+362,CUST077,Python for Data,443.87,2025-03-27,Cash,Chicago,Programming
+363,CUST099,Big Data Essentials,121.61,2025-03-28,Cash,Los Angeles,Programming
+364,CUST047,Python for Data,246.94,2025-03-02,Debit Card,New York,Tech
+365,CUST037,Python for Data,496.65,2025-03-20,Credit Card,New York,Tech
+366,CUST084,Spark Intro,241.71,2025-03-08,Credit Card,San Francisco,Big Data
+367,CUST095,Python for Data,335.5,2025-03-20,PayPal,New York,Programming
+368,CUST030,Hadoop Basics,282.67,2025-03-23,Cash,Los Angeles,Big Data
+369,CUST046,Big Data Essentials,228.23,2025-03-25,Debit Card,Chicago,Tech
+370,CUST090,Spark Advanced,413.55,2025-03-26,PayPal,San Francisco,Big Data
+371,CUST032,Spark Intro,210.37,2025-03-16,PayPal,San Francisco,Big Data
+372,CUST063,Spark Intro,493.51,2025-03-12,Credit Card,Chicago,Programming
+373,CUST021,Spark Advanced,428.74,2025-03-24,Cash,New York,Tech
+374,CUST003,Spark Intro,349.91,2025-03-28,PayPal,Houston,Tech
+375,CUST084,Python for Data,80.45,2025-03-19,Cash,Seattle,Tech
+376,CUST082,Python for Data,311.9,2025-03-18,Cash,Los Angeles,Big Data
+377,CUST076,Spark Intro,408.47,2025-03-27,PayPal,New York,Big Data
+378,CUST009,Big Data Essentials,169.69,2025-03-13,Debit Card,San Francisco,Programming
+379,CUST061,Python for Data,93.09,2025-03-11,Credit Card,Houston,Programming
+380,CUST077,Python for Data,90.5,2025-03-20,Credit Card,San Francisco,Big Data
+381,CUST006,Spark Intro,465.81,2025-03-24,PayPal,Chicago,Big Data
+382,CUST099,Hadoop Basics,196.87,2025-03-26,PayPal,New York,Programming
+383,CUST015,Hadoop Basics,381.03,2025-03-16,PayPal,Los Angeles,Big Data
+384,CUST076,Spark Intro,476.74,2025-03-18,PayPal,Seattle,Big Data
+385,CUST095,Hadoop Advanced,359.09,2025-03-08,Credit Card,New York,Programming
+386,CUST009,Hadoop Advanced,336.09,2025-03-24,Debit Card,San Francisco,Tech
+387,CUST001,Spark Intro,55.25,2025-03-12,Credit Card,New York,Tech
+388,CUST028,Python for Data,375.07,2025-03-12,Cash,San Francisco,Tech
+389,CUST043,Spark Advanced,250.24,2025-03-05,Cash,Seattle,Big Data
+390,CUST020,Spark Intro,324.18,2025-03-21,Credit Card,Los Angeles,Big Data
+391,CUST035,Big Data Essentials,344.91,2025-03-17,Debit Card,Los Angeles,Programming
+392,CUST076,Spark Advanced,50.91,2025-03-03,Credit Card,San Francisco,Tech
+393,CUST068,Python for Data,101.89,2025-03-22,Credit Card,Chicago,Programming
+394,CUST037,Python for Data,437.43,2025-03-08,PayPal,Chicago,Big Data
+395,CUST049,Spark Intro,344.29,2025-03-06,Debit Card,Houston,Tech
+396,CUST074,Spark Advanced,318.84,2025-03-17,PayPal,Seattle,Tech
+397,CUST047,Hadoop Basics,456.29,2025-03-21,Cash,Seattle,Tech
+398,CUST022,Big Data Essentials,463.32,2025-03-13,Credit Card,Chicago,Tech
+399,CUST049,Hadoop Basics,412.94,2025-03-28,Credit Card,Houston,Tech
+400,CUST086,Spark Advanced,98.48,2025-03-07,Debit Card,Houston,Tech
+401,CUST038,Hadoop Advanced,143.22,2025-03-19,Credit Card,Chicago,Big Data
+402,CUST080,Hadoop Basics,76.58,2025-03-16,Credit Card,San Francisco,Programming
+403,CUST061,Spark Advanced,326.7,2025-03-20,Debit Card,Seattle,Programming
+404,CUST036,Python for Data,381.0,2025-03-14,Cash,New York,Big Data
+405,CUST100,Spark Advanced,478.42,2025-03-07,Debit Card,Seattle,Programming
+406,CUST087,Spark Intro,295.95,2025-03-04,PayPal,San Francisco,Tech
+407,CUST022,Hadoop Basics,74.89,2025-03-08,PayPal,San Francisco,Programming
+408,CUST046,Spark Advanced,170.1,2025-03-18,Credit Card,Houston,Programming
+409,CUST067,Python for Data,209.03,2025-03-13,Debit Card,San Francisco,Programming
+410,CUST081,Spark Advanced,57.2,2025-03-08,PayPal,Houston,Programming
+411,CUST054,Python for Data,271.05,2025-03-23,Debit Card,Chicago,Tech
+412,CUST063,Spark Intro,453.4,2025-03-31,Debit Card,Los Angeles,Programming
+413,CUST067,Big Data Essentials,199.19,2025-03-01,PayPal,Houston,Tech
+414,CUST066,Python for Data,67.57,2025-03-05,PayPal,Chicago,Big Data
+415,CUST028,Hadoop Basics,210.5,2025-03-01,Credit Card,Houston,Programming
+416,CUST092,Hadoop Basics,372.12,2025-03-30,Credit Card,Chicago,Big Data
+417,CUST057,Spark Advanced,116.88,2025-03-09,Credit Card,New York,Tech
+418,CUST002,Hadoop Advanced,172.77,2025-03-28,Credit Card,Los Angeles,Big Data
+419,CUST038,Spark Intro,105.46,2025-03-21,Cash,San Francisco,Big Data
+420,CUST040,Spark Advanced,372.63,2025-03-03,Credit Card,New York,Programming
+421,CUST050,Python for Data,374.28,2025-03-19,Cash,Chicago,Programming
+422,CUST072,Python for Data,140.23,2025-03-26,Cash,San Francisco,Big Data
+423,CUST075,Hadoop Basics,405.48,2025-03-22,PayPal,Los Angeles,Tech
+424,CUST064,Python for Data,352.6,2025-03-02,Debit Card,Seattle,Big Data
+425,CUST074,Hadoop Basics,369.49,2025-03-31,Credit Card,Houston,Tech
+426,CUST093,Python for Data,296.03,2025-03-15,Cash,San Francisco,Programming
+427,CUST061,Python for Data,308.11,2025-03-22,Credit Card,Seattle,Programming
+428,CUST084,Python for Data,158.26,2025-03-27,Debit Card,Chicago,Big Data
+429,CUST040,Python for Data,370.75,2025-03-03,Cash,Chicago,Programming
+430,CUST050,Big Data Essentials,366.5,2025-03-02,Cash,New York,Tech
+431,CUST016,Python for Data,235.05,2025-03-19,Debit Card,Seattle,Programming
+432,CUST018,Spark Advanced,489.16,2025-03-02,Cash,Houston,Tech
+433,CUST009,Big Data Essentials,393.11,2025-03-14,Credit Card,Houston,Big Data
+434,CUST087,Big Data Essentials,319.74,2025-03-08,Cash,Chicago,Programming
+435,CUST010,Hadoop Basics,166.01,2025-03-12,Cash,Seattle,Tech
+436,CUST035,Hadoop Basics,87.52,2025-03-06,PayPal,Chicago,Tech
+437,CUST080,Big Data Essentials,480.87,2025-03-20,PayPal,Chicago,Programming
+438,CUST053,Python for Data,214.97,2025-03-15,Debit Card,Seattle,Programming
+439,CUST048,Spark Intro,358.87,2025-03-06,Debit Card,New York,Programming
+440,CUST057,Hadoop Advanced,477.79,2025-03-13,Debit Card,New York,Tech
+441,CUST036,Spark Intro,342.17,2025-03-11,PayPal,Seattle,Tech
+442,CUST067,Spark Advanced,99.86,2025-03-23,Cash,Seattle,Big Data
+443,CUST090,Big Data Essentials,347.76,2025-03-14,Debit Card,Houston,Big Data
+444,CUST011,Big Data Essentials,431.14,2025-03-07,PayPal,New York,Big Data
+445,CUST028,Python for Data,307.99,2025-03-02,PayPal,Seattle,Big Data
+446,CUST090,Spark Advanced,454.06,2025-03-03,Cash,San Francisco,Programming
+447,CUST011,Hadoop Advanced,355.51,2025-03-29,Cash,Los Angeles,Tech
+448,CUST092,Big Data Essentials,475.17,2025-03-30,PayPal,Houston,Big Data
+449,CUST049,Spark Advanced,452.55,2025-03-28,Cash,San Francisco,Big Data
+450,CUST058,Spark Intro,347.79,2025-03-21,Credit Card,Chicago,Programming
+451,CUST064,Hadoop Advanced,376.16,2025-03-03,Credit Card,Los Angeles,Big Data
+452,CUST048,Python for Data,398.39,2025-03-13,Debit Card,New York,Big Data
+453,CUST085,Spark Intro,437.12,2025-03-01,Credit Card,Houston,Programming
+454,CUST036,Big Data Essentials,150.74,2025-03-03,PayPal,Chicago,Tech
+455,CUST055,Python for Data,69.49,2025-03-25,Credit Card,Houston,Tech
+456,CUST003,Python for Data,63.07,2025-03-27,Credit Card,Los Angeles,Programming
+457,CUST094,Python for Data,53.87,2025-03-01,Credit Card,Houston,Big Data
+458,CUST066,Big Data Essentials,300.7,2025-03-31,Cash,New York,Programming
+459,CUST062,Spark Intro,179.3,2025-03-31,Credit Card,Los Angeles,Big Data
+460,CUST100,Python for Data,316.71,2025-03-07,Debit Card,San Francisco,Programming
+461,CUST094,Python for Data,463.75,2025-03-22,Credit Card,Houston,Big Data
+462,CUST095,Spark Intro,73.31,2025-03-07,Cash,New York,Big Data
+463,CUST082,Spark Advanced,496.89,2025-03-20,PayPal,Houston,Tech
+464,CUST051,Python for Data,146.71,2025-03-10,PayPal,Chicago,Programming
+465,CUST097,Hadoop Basics,129.52,2025-03-20,PayPal,Chicago,Big Data
+466,CUST085,Python for Data,454.15,2025-03-23,Debit Card,New York,Tech
+467,CUST058,Spark Advanced,477.97,2025-03-20,Cash,New York,Programming
+468,CUST035,Big Data Essentials,198.03,2025-03-05,Credit Card,New York,Tech
+469,CUST020,Spark Advanced,151.75,2025-03-29,Debit Card,Seattle,Big Data
+470,CUST019,Python for Data,229.55,2025-03-05,Cash,Houston,Big Data
+471,CUST038,Spark Intro,203.57,2025-03-21,Debit Card,Los Angeles,Tech
+472,CUST075,Big Data Essentials,228.58,2025-03-18,Cash,New York,Big Data
+473,CUST074,Big Data Essentials,277.0,2025-03-16,Debit Card,Chicago,Tech
+474,CUST021,Python for Data,272.9,2025-03-21,Credit Card,San Francisco,Programming
+475,CUST074,Spark Intro,291.28,2025-03-15,Cash,Los Angeles,Big Data
+476,CUST050,Big Data Essentials,145.39,2025-03-11,Debit Card,New York,Big Data
+477,CUST072,Hadoop Basics,359.92,2025-03-24,Cash,Los Angeles,Tech
+478,CUST049,Hadoop Advanced,248.31,2025-03-25,Cash,Houston,Big Data
+479,CUST038,Python for Data,378.63,2025-03-05,Debit Card,Chicago,Programming
+480,CUST025,Python for Data,191.83,2025-03-06,PayPal,Chicago,Tech
+481,CUST064,Spark Intro,434.54,2025-03-24,Credit Card,Seattle,Tech
+482,CUST064,Big Data Essentials,436.6,2025-03-01,Debit Card,Chicago,Big Data
+483,CUST024,Spark Intro,310.67,2025-03-20,Debit Card,New York,Programming
+484,CUST034,Big Data Essentials,497.23,2025-03-05,Debit Card,Seattle,Programming
+485,CUST089,Python for Data,308.9,2025-03-18,PayPal,Los Angeles,Big Data
+486,CUST038,Hadoop Basics,339.4,2025-03-27,Credit Card,Chicago,Big Data
+487,CUST056,Spark Advanced,120.29,2025-03-03,Credit Card,Los Angeles,Tech
+488,CUST036,Hadoop Advanced,125.95,2025-03-08,Credit Card,New York,Programming
+489,CUST090,Python for Data,68.91,2025-03-03,Debit Card,Houston,Big Data
+490,CUST039,Spark Advanced,362.57,2025-03-07,Cash,Seattle,Big Data
+491,CUST097,Spark Advanced,348.13,2025-03-27,Credit Card,Houston,Big Data
+492,CUST045,Spark Intro,98.79,2025-03-13,Debit Card,Houston,Big Data
+493,CUST089,Big Data Essentials,148.23,2025-03-24,Credit Card,Houston,Programming
+494,CUST028,Spark Intro,345.46,2025-03-25,Credit Card,Seattle,Big Data
+495,CUST055,Hadoop Advanced,415.78,2025-03-28,PayPal,Houston,Big Data
+496,CUST026,Hadoop Advanced,288.25,2025-03-11,Debit Card,Chicago,Big Data
+497,CUST086,Hadoop Advanced,161.43,2025-03-20,Cash,Chicago,Programming
+498,CUST069,Hadoop Advanced,133.27,2025-03-05,Debit Card,New York,Big Data
+499,CUST007,Big Data Essentials,229.61,2025-03-25,Credit Card,Houston,Programming
+500,CUST070,Hadoop Basics,251.55,2025-03-20,Debit Card,San Francisco,Tech
+501,CUST085,Spark Intro,78.85,2025-03-08,Cash,Seattle,Programming
+502,CUST023,Python for Data,261.92,2025-03-24,Credit Card,Los Angeles,Tech
+503,CUST074,Big Data Essentials,183.81,2025-03-06,PayPal,Los Angeles,Tech
+504,CUST040,Spark Advanced,399.78,2025-03-31,Credit Card,Houston,Tech
+505,CUST046,Spark Intro,370.47,2025-03-06,Credit Card,Los Angeles,Programming
+506,CUST011,Hadoop Basics,286.4,2025-03-07,Cash,Los Angeles,Big Data
+507,CUST092,Spark Advanced,486.1,2025-03-25,Cash,Houston,Programming
+508,CUST074,Python for Data,95.08,2025-03-21,Credit Card,Houston,Programming
+509,CUST084,Big Data Essentials,381.75,2025-03-11,Credit Card,Los Angeles,Tech
+510,CUST032,Big Data Essentials,264.22,2025-03-19,PayPal,San Francisco,Tech
+511,CUST031,Hadoop Basics,415.71,2025-03-09,Debit Card,Seattle,Tech
+512,CUST039,Hadoop Basics,62.1,2025-03-14,Credit Card,Los Angeles,Tech
+513,CUST046,Spark Advanced,382.23,2025-03-12,Cash,San Francisco,Tech
+514,CUST089,Python for Data,104.9,2025-03-15,Cash,Houston,Tech
+515,CUST045,Spark Advanced,118.77,2025-03-07,PayPal,Houston,Big Data
+516,CUST068,Spark Advanced,185.84,2025-03-03,PayPal,New York,Programming
+517,CUST063,Spark Intro,378.36,2025-03-10,PayPal,Houston,Programming
+518,CUST096,Hadoop Basics,144.41,2025-03-06,Cash,Los Angeles,Big Data
+519,CUST032,Spark Intro,395.02,2025-03-20,PayPal,Houston,Programming
+520,CUST052,Hadoop Basics,159.04,2025-03-18,Cash,San Francisco,Programming
+521,CUST045,Spark Intro,290.04,2025-03-24,PayPal,San Francisco,Tech
+522,CUST057,Big Data Essentials,280.44,2025-03-06,PayPal,New York,Big Data
+523,CUST005,Big Data Essentials,351.7,2025-03-03,Debit Card,Los Angeles,Tech
+524,CUST041,Python for Data,382.22,2025-03-01,Cash,Los Angeles,Tech
+525,CUST100,Hadoop Basics,349.26,2025-03-13,PayPal,Seattle,Tech
+526,CUST081,Big Data Essentials,265.81,2025-03-28,PayPal,Los Angeles,Programming
+527,CUST022,Hadoop Advanced,315.23,2025-03-16,Credit Card,San Francisco,Big Data
+528,CUST092,Hadoop Basics,254.26,2025-03-24,Cash,Seattle,Tech
+529,CUST035,Spark Intro,189.43,2025-03-07,Cash,Chicago,Big Data
+530,CUST005,Spark Advanced,173.77,2025-03-19,PayPal,Seattle,Big Data
+531,CUST073,Hadoop Basics,483.96,2025-03-25,Cash,Houston,Tech
+532,CUST046,Big Data Essentials,141.1,2025-03-22,Debit Card,Seattle,Programming
+533,CUST100,Hadoop Basics,464.61,2025-03-10,PayPal,Chicago,Tech
+534,CUST087,Big Data Essentials,348.35,2025-03-16,PayPal,Seattle,Tech
+535,CUST037,Spark Advanced,144.35,2025-03-15,Debit Card,New York,Big Data
+536,CUST023,Hadoop Advanced,266.51,2025-03-09,Debit Card,Seattle,Tech
+537,CUST094,Big Data Essentials,419.33,2025-03-03,Cash,Seattle,Tech
+538,CUST011,Python for Data,438.47,2025-03-23,Cash,Chicago,Programming
+539,CUST006,Spark Advanced,54.76,2025-03-05,PayPal,Chicago,Big Data
+540,CUST027,Spark Intro,297.27,2025-03-25,Debit Card,Seattle,Big Data
+541,CUST046,Spark Advanced,63.0,2025-03-02,PayPal,New York,Programming
+542,CUST068,Hadoop Basics,463.88,2025-03-11,Cash,Houston,Big Data
+543,CUST055,Big Data Essentials,479.92,2025-03-31,Credit Card,Seattle,Programming
+544,CUST012,Spark Intro,264.21,2025-03-25,Debit Card,San Francisco,Tech
+545,CUST011,Hadoop Basics,497.07,2025-03-17,Credit Card,Seattle,Tech
+546,CUST030,Hadoop Basics,477.7,2025-03-24,Cash,Los Angeles,Tech
+547,CUST083,Big Data Essentials,281.07,2025-03-21,PayPal,San Francisco,Big Data
+548,CUST005,Spark Advanced,377.31,2025-03-29,Debit Card,Houston,Programming
+549,CUST030,Big Data Essentials,221.82,2025-03-27,Debit Card,Chicago,Programming
+550,CUST082,Spark Intro,237.08,2025-03-03,Cash,Seattle,Tech
+551,CUST018,Big Data Essentials,160.75,2025-03-05,PayPal,Chicago,Tech
+552,CUST036,Hadoop Basics,373.76,2025-03-14,PayPal,Houston,Tech
+553,CUST093,Python for Data,159.66,2025-03-28,Credit Card,Chicago,Tech
+554,CUST099,Hadoop Basics,446.03,2025-03-09,Credit Card,Chicago,Programming
+555,CUST020,Spark Advanced,292.71,2025-03-07,Cash,Chicago,Tech
+556,CUST086,Spark Intro,64.4,2025-03-27,Credit Card,Chicago,Tech
+557,CUST021,Spark Intro,464.63,2025-03-17,PayPal,Houston,Big Data
+558,CUST070,Big Data Essentials,490.8,2025-03-15,Cash,New York,Big Data
+559,CUST063,Python for Data,280.91,2025-03-02,Credit Card,Houston,Tech
+560,CUST074,Big Data Essentials,176.5,2025-03-30,PayPal,Los Angeles,Big Data
+561,CUST008,Big Data Essentials,254.13,2025-03-26,Debit Card,Chicago,Tech
+562,CUST082,Python for Data,117.95,2025-03-26,Cash,San Francisco,Programming
+563,CUST084,Python for Data,299.25,2025-03-12,Cash,New York,Programming
+564,CUST074,Spark Advanced,296.72,2025-03-09,Credit Card,Chicago,Tech
+565,CUST017,Big Data Essentials,159.79,2025-03-10,Credit Card,New York,Tech
+566,CUST098,Big Data Essentials,295.81,2025-03-29,Credit Card,Seattle,Tech
+567,CUST030,Hadoop Advanced,339.98,2025-03-21,Debit Card,Chicago,Big Data
+568,CUST091,Spark Advanced,424.33,2025-03-11,Cash,San Francisco,Tech
+569,CUST087,Python for Data,249.49,2025-03-31,Cash,Houston,Programming
+570,CUST026,Spark Intro,397.26,2025-03-09,Credit Card,Houston,Programming
+571,CUST042,Python for Data,97.35,2025-03-16,PayPal,Seattle,Tech
+572,CUST085,Hadoop Advanced,430.62,2025-03-02,Credit Card,New York,Programming
+573,CUST055,Hadoop Advanced,498.04,2025-03-28,PayPal,Los Angeles,Tech
+574,CUST051,Spark Intro,470.39,2025-03-01,Cash,Los Angeles,Programming
+575,CUST011,Spark Intro,333.15,2025-03-06,Credit Card,New York,Tech
+576,CUST015,Spark Intro,451.98,2025-03-01,Cash,New York,Tech
+577,CUST017,Big Data Essentials,82.01,2025-03-01,Debit Card,San Francisco,Programming
+578,CUST006,Hadoop Basics,198.31,2025-03-28,Credit Card,Chicago,Programming
+579,CUST098,Spark Intro,491.15,2025-03-19,Credit Card,New York,Programming
+580,CUST014,Spark Advanced,120.51,2025-03-02,PayPal,San Francisco,Big Data
+581,CUST011,Hadoop Basics,452.48,2025-03-11,Credit Card,Houston,Programming
+582,CUST029,Spark Intro,457.7,2025-03-05,PayPal,Houston,Big Data
+583,CUST033,Big Data Essentials,153.73,2025-03-12,Cash,Houston,Programming
+584,CUST057,Big Data Essentials,390.91,2025-03-11,Credit Card,New York,Programming
+585,CUST075,Python for Data,179.42,2025-03-19,Cash,Houston,Programming
+586,CUST010,Spark Advanced,130.17,2025-03-08,Credit Card,San Francisco,Programming
+587,CUST041,Hadoop Basics,67.85,2025-03-07,Cash,Los Angeles,Big Data
+588,CUST001,Hadoop Advanced,106.61,2025-03-29,Cash,Houston,Programming
+589,CUST031,Hadoop Basics,150.58,2025-03-22,Cash,San Francisco,Tech
+590,CUST077,Spark Advanced,451.21,2025-03-31,Debit Card,Los Angeles,Tech
+591,CUST081,Spark Advanced,314.06,2025-03-13,PayPal,Chicago,Big Data
+592,CUST026,Spark Advanced,81.1,2025-03-13,Debit Card,Chicago,Programming
+593,CUST012,Spark Advanced,158.29,2025-03-04,Debit Card,Houston,Tech
+594,CUST036,Hadoop Advanced,367.04,2025-03-28,PayPal,Chicago,Programming
+595,CUST052,Spark Intro,92.21,2025-03-19,Credit Card,New York,Tech
+596,CUST006,Spark Advanced,473.38,2025-03-20,PayPal,San Francisco,Programming
+597,CUST039,Spark Advanced,68.31,2025-03-21,Credit Card,Seattle,Programming
+598,CUST041,Hadoop Advanced,280.31,2025-03-24,Credit Card,New York,Programming
+599,CUST100,Python for Data,292.62,2025-03-10,Debit Card,Seattle,Tech
+600,CUST063,Big Data Essentials,152.69,2025-03-27,Credit Card,Chicago,Tech
+601,CUST013,Spark Advanced,96.01,2025-03-22,Credit Card,San Francisco,Programming
+602,CUST007,Big Data Essentials,406.19,2025-03-07,PayPal,New York,Tech
+603,CUST045,Spark Intro,117.66,2025-03-26,Cash,Houston,Tech
+604,CUST093,Python for Data,236.49,2025-03-29,Credit Card,Seattle,Tech
+605,CUST016,Big Data Essentials,345.04,2025-03-16,PayPal,Los Angeles,Big Data
+606,CUST063,Big Data Essentials,302.88,2025-03-25,PayPal,Chicago,Tech
+607,CUST031,Python for Data,449.56,2025-03-05,PayPal,Houston,Programming
+608,CUST070,Big Data Essentials,51.85,2025-03-20,Debit Card,Houston,Tech
+609,CUST027,Big Data Essentials,85.57,2025-03-18,PayPal,Chicago,Big Data
+610,CUST065,Hadoop Advanced,162.09,2025-03-30,Debit Card,Chicago,Big Data
+611,CUST017,Python for Data,499.88,2025-03-25,Debit Card,Houston,Programming
+612,CUST057,Hadoop Advanced,86.27,2025-03-06,PayPal,Seattle,Programming
+613,CUST016,Spark Intro,115.19,2025-03-04,Debit Card,Houston,Programming
+614,CUST057,Spark Advanced,207.8,2025-03-13,Debit Card,Seattle,Programming
+615,CUST081,Spark Advanced,170.91,2025-03-04,Credit Card,San Francisco,Programming
+616,CUST002,Hadoop Advanced,50.79,2025-03-27,Credit Card,San Francisco,Programming
+617,CUST100,Python for Data,304.73,2025-03-29,PayPal,Seattle,Programming
+618,CUST059,Spark Advanced,147.96,2025-03-15,Debit Card,Houston,Big Data
+619,CUST098,Spark Intro,405.61,2025-03-16,Debit Card,Houston,Big Data
+620,CUST044,Big Data Essentials,171.93,2025-03-28,Debit Card,San Francisco,Programming
+621,CUST065,Hadoop Advanced,484.52,2025-03-28,Cash,New York,Programming
+622,CUST091,Big Data Essentials,459.48,2025-03-26,Credit Card,New York,Programming
+623,CUST054,Spark Advanced,106.83,2025-03-26,PayPal,San Francisco,Tech
+624,CUST022,Spark Intro,271.65,2025-03-07,PayPal,Chicago,Tech
+625,CUST014,Hadoop Advanced,383.43,2025-03-15,PayPal,San Francisco,Programming
+626,CUST037,Spark Advanced,288.45,2025-03-29,PayPal,Houston,Big Data
+627,CUST033,Spark Advanced,254.06,2025-03-18,Cash,New York,Tech
+628,CUST016,Hadoop Basics,463.97,2025-03-25,Cash,Houston,Programming
+629,CUST025,Spark Advanced,145.78,2025-03-22,Debit Card,New York,Big Data
+630,CUST013,Big Data Essentials,110.84,2025-03-13,Debit Card,Chicago,Big Data
+631,CUST007,Big Data Essentials,187.64,2025-03-11,Debit Card,Chicago,Programming
+632,CUST078,Spark Advanced,255.15,2025-03-22,Cash,New York,Programming
+633,CUST077,Big Data Essentials,122.78,2025-03-09,Credit Card,Seattle,Big Data
+634,CUST100,Python for Data,486.89,2025-03-29,Cash,Los Angeles,Big Data
+635,CUST078,Spark Intro,141.2,2025-03-03,Debit Card,Seattle,Tech
+636,CUST018,Python for Data,219.04,2025-03-14,Cash,San Francisco,Tech
+637,CUST026,Spark Intro,179.26,2025-03-03,Credit Card,New York,Tech
+638,CUST037,Hadoop Advanced,149.41,2025-03-18,Cash,Houston,Programming
+639,CUST007,Spark Intro,164.02,2025-03-18,Credit Card,Houston,Programming
+640,CUST026,Hadoop Advanced,494.72,2025-03-25,PayPal,Chicago,Big Data
+641,CUST027,Hadoop Basics,263.68,2025-03-03,Credit Card,Houston,Tech
+642,CUST003,Python for Data,179.22,2025-03-24,Credit Card,Seattle,Tech
+643,CUST052,Hadoop Advanced,192.97,2025-03-23,Debit Card,Houston,Programming
+644,CUST080,Spark Intro,174.9,2025-03-30,Cash,Seattle,Programming
+645,CUST089,Spark Intro,344.19,2025-03-02,Cash,Chicago,Big Data
+646,CUST021,Python for Data,315.59,2025-03-24,Credit Card,Seattle,Tech
+647,CUST082,Spark Intro,114.85,2025-03-29,Cash,Seattle,Tech
+648,CUST013,Big Data Essentials,446.12,2025-03-29,Debit Card,Houston,Big Data
+649,CUST088,Hadoop Basics,423.8,2025-03-22,PayPal,Chicago,Tech
+650,CUST026,Hadoop Advanced,107.85,2025-03-14,Credit Card,San Francisco,Big Data
+651,CUST060,Big Data Essentials,340.67,2025-03-10,Debit Card,New York,Programming
+652,CUST042,Python for Data,223.66,2025-03-19,Debit Card,Seattle,Programming
+653,CUST054,Hadoop Basics,476.11,2025-03-05,Debit Card,Seattle,Big Data
+654,CUST002,Hadoop Advanced,187.13,2025-03-09,Credit Card,Houston,Tech
+655,CUST093,Big Data Essentials,275.73,2025-03-11,Debit Card,Houston,Programming
+656,CUST086,Big Data Essentials,154.43,2025-03-24,PayPal,New York,Tech
+657,CUST070,Python for Data,362.35,2025-03-23,Credit Card,Seattle,Programming
+658,CUST020,Hadoop Advanced,422.76,2025-03-09,Debit Card,Chicago,Big Data
+659,CUST043,Python for Data,151.5,2025-03-29,Credit Card,Los Angeles,Big Data
+660,CUST056,Spark Intro,174.77,2025-03-30,Credit Card,Chicago,Programming
+661,CUST087,Spark Intro,259.18,2025-03-23,PayPal,Chicago,Big Data
+662,CUST032,Spark Intro,452.95,2025-03-14,Debit Card,Houston,Big Data
+663,CUST089,Hadoop Basics,377.41,2025-03-08,Credit Card,New York,Tech
+664,CUST064,Spark Advanced,188.0,2025-03-29,Cash,New York,Programming
+665,CUST080,Big Data Essentials,370.37,2025-03-25,Credit Card,Los Angeles,Big Data
+666,CUST018,Python for Data,105.43,2025-03-22,Credit Card,Seattle,Big Data
+667,CUST068,Hadoop Basics,312.1,2025-03-21,Debit Card,Chicago,Big Data
+668,CUST081,Hadoop Basics,379.48,2025-03-12,PayPal,Los Angeles,Programming
+669,CUST037,Python for Data,360.38,2025-03-28,Debit Card,Chicago,Tech
+670,CUST003,Hadoop Basics,332.9,2025-03-20,PayPal,Houston,Tech
+671,CUST008,Big Data Essentials,458.44,2025-03-18,Debit Card,Seattle,Tech
+672,CUST094,Hadoop Basics,431.97,2025-03-22,PayPal,Houston,Tech
+673,CUST061,Python for Data,279.54,2025-03-10,Credit Card,Chicago,Programming
+674,CUST039,Spark Intro,426.47,2025-03-06,PayPal,Chicago,Programming
+675,CUST097,Spark Advanced,313.7,2025-03-19,Debit Card,Seattle,Programming
+676,CUST092,Python for Data,324.85,2025-03-13,PayPal,Chicago,Big Data
+677,CUST045,Spark Advanced,357.93,2025-03-03,Debit Card,San Francisco,Tech
+678,CUST099,Hadoop Basics,428.77,2025-03-29,Debit Card,Seattle,Tech
+679,CUST030,Big Data Essentials,320.21,2025-03-23,Debit Card,San Francisco,Tech
+680,CUST064,Big Data Essentials,256.38,2025-03-04,Credit Card,Chicago,Programming
+681,CUST018,Spark Advanced,357.66,2025-03-01,PayPal,Seattle,Big Data
+682,CUST050,Hadoop Advanced,142.98,2025-03-07,Cash,San Francisco,Tech
+683,CUST017,Spark Advanced,365.2,2025-03-08,Credit Card,New York,Big Data
+684,CUST100,Big Data Essentials,117.7,2025-03-26,Credit Card,New York,Tech
+685,CUST041,Spark Intro,288.04,2025-03-26,Cash,Chicago,Big Data
+686,CUST046,Hadoop Advanced,309.88,2025-03-20,Debit Card,San Francisco,Tech
+687,CUST029,Hadoop Advanced,389.6,2025-03-14,Credit Card,New York,Programming
+688,CUST098,Spark Intro,495.43,2025-03-04,Debit Card,San Francisco,Programming
+689,CUST068,Big Data Essentials,459.92,2025-03-24,Cash,Seattle,Big Data
+690,CUST094,Big Data Essentials,442.72,2025-03-21,Cash,Seattle,Big Data
+691,CUST083,Spark Intro,454.0,2025-03-05,Cash,Los Angeles,Big Data
+692,CUST004,Spark Advanced,56.71,2025-03-07,Cash,New York,Big Data
+693,CUST049,Spark Advanced,331.33,2025-03-20,Cash,Los Angeles,Tech
+694,CUST007,Spark Advanced,65.89,2025-03-10,PayPal,Los Angeles,Tech
+695,CUST056,Hadoop Advanced,186.08,2025-03-15,PayPal,Chicago,Programming
+696,CUST092,Big Data Essentials,289.05,2025-03-15,Debit Card,Los Angeles,Programming
+697,CUST041,Python for Data,391.45,2025-03-17,PayPal,Houston,Tech
+698,CUST013,Spark Intro,404.9,2025-03-30,Debit Card,New York,Tech
+699,CUST003,Hadoop Basics,398.38,2025-03-09,Debit Card,Seattle,Big Data
+700,CUST027,Python for Data,387.08,2025-03-18,Credit Card,Houston,Programming
+701,CUST065,Python for Data,437.92,2025-03-28,Cash,Los Angeles,Tech
+702,CUST093,Spark Advanced,256.81,2025-03-24,Debit Card,Houston,Programming
+703,CUST014,Hadoop Basics,323.22,2025-03-22,Debit Card,Seattle,Big Data
+704,CUST043,Big Data Essentials,162.04,2025-03-13,Debit Card,Houston,Tech
+705,CUST010,Hadoop Advanced,450.58,2025-03-29,Credit Card,Houston,Tech
+706,CUST050,Hadoop Advanced,338.03,2025-03-07,Credit Card,Seattle,Big Data
+707,CUST078,Spark Intro,321.69,2025-03-01,Cash,New York,Tech
+708,CUST092,Spark Advanced,154.36,2025-03-09,PayPal,San Francisco,Big Data
+709,CUST040,Hadoop Basics,350.03,2025-03-20,Credit Card,Los Angeles,Programming
+710,CUST047,Spark Advanced,424.91,2025-03-31,Cash,New York,Tech
+711,CUST035,Hadoop Basics,492.08,2025-03-13,Debit Card,New York,Tech
+712,CUST028,Hadoop Advanced,260.59,2025-03-20,Debit Card,Houston,Big Data
+713,CUST056,Python for Data,492.84,2025-03-18,PayPal,Los Angeles,Tech
+714,CUST077,Big Data Essentials,476.15,2025-03-22,Credit Card,Seattle,Big Data
+715,CUST044,Python for Data,255.38,2025-03-13,Debit Card,Chicago,Programming
+716,CUST067,Big Data Essentials,88.83,2025-03-19,Credit Card,Seattle,Big Data
+717,CUST020,Hadoop Basics,160.61,2025-03-03,Credit Card,New York,Tech
+718,CUST067,Spark Intro,438.94,2025-03-03,Credit Card,Seattle,Big Data
+719,CUST017,Big Data Essentials,300.51,2025-03-10,Debit Card,San Francisco,Programming
+720,CUST022,Spark Advanced,317.88,2025-03-26,Debit Card,Houston,Tech
+721,CUST004,Hadoop Basics,378.08,2025-03-02,PayPal,Chicago,Big Data
+722,CUST041,Hadoop Advanced,483.89,2025-03-30,Debit Card,San Francisco,Big Data
+723,CUST043,Hadoop Basics,269.77,2025-03-05,Debit Card,Chicago,Programming
+724,CUST049,Big Data Essentials,300.91,2025-03-06,Credit Card,Houston,Big Data
+725,CUST072,Big Data Essentials,440.56,2025-03-27,Cash,Chicago,Programming
+726,CUST005,Hadoop Advanced,173.15,2025-03-02,Cash,Los Angeles,Big Data
+727,CUST089,Hadoop Advanced,66.41,2025-03-01,Cash,San Francisco,Tech
+728,CUST025,Python for Data,301.47,2025-03-07,Debit Card,San Francisco,Big Data
+729,CUST077,Big Data Essentials,448.32,2025-03-16,Cash,Chicago,Tech
+730,CUST086,Hadoop Basics,410.49,2025-03-01,PayPal,New York,Programming
+731,CUST095,Spark Intro,260.75,2025-03-06,Credit Card,San Francisco,Programming
+732,CUST009,Big Data Essentials,107.78,2025-03-29,Cash,New York,Tech
+733,CUST008,Python for Data,242.99,2025-03-23,Debit Card,Houston,Tech
+734,CUST051,Big Data Essentials,168.31,2025-03-05,PayPal,New York,Big Data
+735,CUST027,Spark Advanced,455.48,2025-03-28,Cash,Houston,Tech
+736,CUST100,Hadoop Basics,249.72,2025-03-22,Cash,Seattle,Big Data
+737,CUST099,Spark Advanced,259.43,2025-03-08,Cash,San Francisco,Tech
+738,CUST046,Spark Intro,390.46,2025-03-10,PayPal,Houston,Tech
+739,CUST004,Spark Advanced,322.86,2025-03-24,Debit Card,Los Angeles,Tech
+740,CUST035,Hadoop Basics,496.1,2025-03-03,PayPal,Chicago,Tech
+741,CUST088,Spark Advanced,103.25,2025-03-03,Cash,New York,Big Data
+742,CUST055,Python for Data,360.06,2025-03-22,Debit Card,San Francisco,Big Data
+743,CUST075,Hadoop Basics,143.25,2025-03-05,Cash,Los Angeles,Big Data
+744,CUST027,Hadoop Advanced,268.54,2025-03-12,Debit Card,Houston,Big Data
+745,CUST048,Big Data Essentials,333.8,2025-03-30,PayPal,San Francisco,Big Data
+746,CUST008,Hadoop Advanced,140.8,2025-03-06,Credit Card,Los Angeles,Tech
+747,CUST005,Hadoop Advanced,65.57,2025-03-04,Debit Card,Los Angeles,Programming
+748,CUST094,Hadoop Basics,160.02,2025-03-30,PayPal,Chicago,Big Data
+749,CUST033,Hadoop Advanced,332.31,2025-03-12,Credit Card,San Francisco,Tech
+750,CUST098,Hadoop Basics,411.7,2025-03-27,PayPal,New York,Big Data
+751,CUST001,Spark Advanced,222.44,2025-03-18,Cash,Los Angeles,Tech
+752,CUST017,Spark Advanced,341.87,2025-03-22,PayPal,Houston,Programming
+753,CUST073,Hadoop Advanced,425.56,2025-03-22,Cash,New York,Tech
+754,CUST010,Spark Advanced,363.18,2025-03-24,Credit Card,Los Angeles,Big Data
+755,CUST003,Spark Advanced,138.77,2025-03-16,Cash,Chicago,Big Data
+756,CUST011,Hadoop Basics,294.29,2025-03-01,Debit Card,Houston,Programming
+757,CUST009,Spark Intro,387.92,2025-03-30,Debit Card,Los Angeles,Big Data
+758,CUST097,Spark Intro,457.28,2025-03-16,Cash,New York,Programming
+759,CUST003,Python for Data,453.33,2025-03-20,Debit Card,San Francisco,Programming
+760,CUST081,Hadoop Advanced,216.23,2025-03-08,PayPal,San Francisco,Tech
+761,CUST019,Hadoop Advanced,133.17,2025-03-25,Debit Card,New York,Programming
+762,CUST057,Hadoop Advanced,315.43,2025-03-20,PayPal,Chicago,Tech
+763,CUST024,Spark Advanced,201.64,2025-03-05,Debit Card,Los Angeles,Big Data
+764,CUST002,Spark Advanced,493.96,2025-03-17,PayPal,Houston,Programming
+765,CUST070,Hadoop Advanced,113.94,2025-03-04,Cash,Seattle,Big Data
+766,CUST094,Python for Data,79.84,2025-03-05,Debit Card,San Francisco,Big Data
+767,CUST033,Hadoop Advanced,332.19,2025-03-01,Credit Card,San Francisco,Big Data
+768,CUST044,Spark Advanced,101.83,2025-03-04,PayPal,Seattle,Tech
+769,CUST011,Hadoop Basics,248.79,2025-03-01,Credit Card,Los Angeles,Tech
+770,CUST028,Python for Data,313.36,2025-03-19,Debit Card,Seattle,Big Data
+771,CUST041,Python for Data,422.5,2025-03-06,Credit Card,New York,Tech
+772,CUST008,Spark Intro,121.05,2025-03-03,Credit Card,Houston,Programming
+773,CUST069,Python for Data,64.33,2025-03-25,PayPal,Los Angeles,Programming
+774,CUST047,Hadoop Advanced,139.1,2025-03-21,Credit Card,Chicago,Tech
+775,CUST030,Python for Data,175.61,2025-03-29,Cash,Los Angeles,Programming
+776,CUST083,Spark Advanced,396.48,2025-03-15,Cash,New York,Programming
+777,CUST012,Spark Intro,448.46,2025-03-16,PayPal,Los Angeles,Programming
+778,CUST030,Hadoop Basics,425.87,2025-03-24,PayPal,Houston,Programming
+779,CUST067,Hadoop Basics,475.17,2025-03-19,Cash,Chicago,Programming
+780,CUST012,Spark Advanced,243.32,2025-03-01,PayPal,Seattle,Programming
+781,CUST087,Spark Intro,73.25,2025-03-09,PayPal,New York,Big Data
+782,CUST090,Hadoop Basics,425.42,2025-03-10,Cash,Chicago,Tech
+783,CUST059,Python for Data,50.67,2025-03-08,Cash,Houston,Big Data
+784,CUST040,Spark Intro,240.38,2025-03-12,PayPal,Seattle,Programming
+785,CUST060,Hadoop Basics,414.72,2025-03-27,Cash,Los Angeles,Tech
+786,CUST003,Hadoop Advanced,205.08,2025-03-15,PayPal,San Francisco,Programming
+787,CUST012,Python for Data,102.16,2025-03-16,Debit Card,New York,Tech
+788,CUST019,Big Data Essentials,266.63,2025-03-29,PayPal,Los Angeles,Tech
+789,CUST010,Spark Intro,336.9,2025-03-24,Cash,Seattle,Programming
+790,CUST080,Python for Data,292.1,2025-03-16,Cash,Chicago,Tech
+791,CUST051,Hadoop Advanced,316.23,2025-03-06,PayPal,Seattle,Programming
+792,CUST078,Spark Intro,334.66,2025-03-01,Cash,Houston,Big Data
+793,CUST026,Spark Intro,399.38,2025-03-27,Cash,New York,Programming
+794,CUST094,Spark Intro,497.66,2025-03-16,PayPal,New York,Tech
+795,CUST037,Hadoop Basics,178.28,2025-03-13,Cash,New York,Big Data
+796,CUST040,Python for Data,142.58,2025-03-29,Credit Card,Seattle,Programming
+797,CUST032,Spark Intro,262.47,2025-03-03,Credit Card,Seattle,Programming
+798,CUST051,Spark Intro,220.64,2025-03-19,PayPal,Chicago,Programming
+799,CUST010,Spark Intro,386.32,2025-03-25,Cash,Houston,Programming
+800,CUST085,Hadoop Advanced,182.87,2025-03-25,Debit Card,Chicago,Tech
+801,CUST084,Big Data Essentials,430.86,2025-03-02,Debit Card,Houston,Big Data
+802,CUST081,Spark Intro,387.93,2025-03-07,PayPal,Chicago,Big Data
+803,CUST001,Spark Advanced,375.03,2025-03-24,Cash,Houston,Programming
+804,CUST015,Spark Intro,498.32,2025-03-23,Credit Card,Seattle,Programming
+805,CUST096,Big Data Essentials,326.98,2025-03-07,PayPal,Houston,Big Data
+806,CUST016,Spark Intro,228.31,2025-03-05,Cash,San Francisco,Programming
+807,CUST092,Big Data Essentials,365.69,2025-03-24,Debit Card,Houston,Tech
+808,CUST051,Big Data Essentials,185.89,2025-03-26,Debit Card,Chicago,Programming
+809,CUST060,Python for Data,459.13,2025-03-17,Credit Card,Chicago,Tech
+810,CUST073,Hadoop Advanced,68.26,2025-03-29,PayPal,Houston,Programming
+811,CUST076,Big Data Essentials,357.13,2025-03-19,Debit Card,New York,Big Data
+812,CUST048,Hadoop Advanced,206.34,2025-03-31,Cash,New York,Big Data
+813,CUST085,Hadoop Advanced,120.21,2025-03-16,Credit Card,Los Angeles,Programming
+814,CUST022,Hadoop Advanced,243.62,2025-03-22,PayPal,Seattle,Programming
+815,CUST067,Spark Intro,70.39,2025-03-31,Debit Card,Los Angeles,Big Data
+816,CUST083,Spark Intro,303.4,2025-03-04,Credit Card,New York,Programming
+817,CUST083,Spark Advanced,328.31,2025-03-04,Cash,Los Angeles,Programming
+818,CUST026,Hadoop Basics,289.73,2025-03-11,Debit Card,Houston,Tech
+819,CUST054,Spark Advanced,415.34,2025-03-24,PayPal,Seattle,Tech
+820,CUST087,Spark Intro,65.52,2025-03-29,PayPal,Los Angeles,Programming
+821,CUST075,Hadoop Advanced,499.71,2025-03-25,PayPal,Houston,Big Data
+822,CUST012,Hadoop Basics,256.36,2025-03-07,PayPal,San Francisco,Tech
+823,CUST047,Spark Intro,489.99,2025-03-28,PayPal,New York,Programming
+824,CUST004,Spark Advanced,103.97,2025-03-27,Credit Card,Seattle,Programming
+825,CUST053,Hadoop Advanced,239.72,2025-03-13,Credit Card,Chicago,Big Data
+826,CUST007,Python for Data,74.56,2025-03-11,Cash,Houston,Tech
+827,CUST039,Hadoop Advanced,419.59,2025-03-18,PayPal,Houston,Tech
+828,CUST054,Python for Data,187.18,2025-03-25,Cash,Chicago,Big Data
+829,CUST085,Hadoop Advanced,104.54,2025-03-18,Debit Card,Houston,Programming
+830,CUST027,Hadoop Advanced,466.46,2025-03-23,PayPal,San Francisco,Tech
+831,CUST096,Spark Advanced,53.09,2025-03-05,Cash,New York,Big Data
+832,CUST023,Spark Intro,338.9,2025-03-13,Debit Card,New York,Tech
+833,CUST063,Spark Advanced,298.95,2025-03-06,Debit Card,Chicago,Big Data
+834,CUST020,Hadoop Advanced,319.74,2025-03-01,Cash,Houston,Big Data
+835,CUST002,Hadoop Advanced,130.56,2025-03-15,Credit Card,Chicago,Programming
+836,CUST067,Hadoop Advanced,403.16,2025-03-03,Debit Card,San Francisco,Programming
+837,CUST003,Spark Advanced,197.4,2025-03-04,PayPal,Los Angeles,Big Data
+838,CUST051,Big Data Essentials,98.59,2025-03-21,PayPal,Seattle,Big Data
+839,CUST023,Hadoop Basics,286.77,2025-03-13,PayPal,Chicago,Big Data
+840,CUST009,Hadoop Advanced,418.04,2025-03-02,Cash,Chicago,Big Data
+841,CUST037,Hadoop Basics,185.51,2025-03-24,Debit Card,Chicago,Programming
+842,CUST094,Hadoop Advanced,153.08,2025-03-17,Cash,Houston,Tech
+843,CUST053,Big Data Essentials,183.56,2025-03-10,PayPal,New York,Programming
+844,CUST028,Big Data Essentials,238.84,2025-03-25,Cash,Houston,Big Data
+845,CUST070,Spark Advanced,273.28,2025-03-28,Debit Card,Los Angeles,Tech
+846,CUST052,Big Data Essentials,291.63,2025-03-11,PayPal,Chicago,Tech
+847,CUST061,Hadoop Advanced,495.43,2025-03-11,Credit Card,Seattle,Tech
+848,CUST090,Spark Intro,201.75,2025-03-23,Credit Card,Seattle,Programming
+849,CUST074,Spark Advanced,217.94,2025-03-13,PayPal,Los Angeles,Programming
+850,CUST043,Python for Data,87.71,2025-03-23,PayPal,Seattle,Tech
+851,CUST015,Spark Intro,366.43,2025-03-20,Cash,Chicago,Big Data
+852,CUST095,Spark Intro,347.46,2025-03-17,Debit Card,Los Angeles,Tech
+853,CUST092,Hadoop Basics,487.78,2025-03-21,Cash,Seattle,Tech
+854,CUST068,Hadoop Advanced,146.65,2025-03-29,PayPal,Chicago,Programming
+855,CUST094,Big Data Essentials,294.4,2025-03-03,Cash,Chicago,Big Data
+856,CUST055,Hadoop Advanced,94.44,2025-03-31,Credit Card,New York,Big Data
+857,CUST012,Hadoop Advanced,399.52,2025-03-14,Debit Card,San Francisco,Big Data
+858,CUST094,Hadoop Advanced,312.88,2025-03-31,Debit Card,New York,Programming
+859,CUST010,Hadoop Advanced,321.34,2025-03-14,Debit Card,San Francisco,Tech
+860,CUST016,Big Data Essentials,325.01,2025-03-09,Cash,San Francisco,Big Data
+861,CUST054,Hadoop Advanced,59.6,2025-03-08,Credit Card,Houston,Tech
+862,CUST067,Big Data Essentials,281.44,2025-03-23,Debit Card,Los Angeles,Tech
+863,CUST034,Python for Data,433.58,2025-03-10,Credit Card,Chicago,Programming
+864,CUST095,Hadoop Advanced,414.93,2025-03-15,Debit Card,Los Angeles,Programming
+865,CUST081,Hadoop Basics,269.32,2025-03-09,PayPal,Chicago,Programming
+866,CUST041,Python for Data,424.89,2025-03-25,Debit Card,San Francisco,Programming
+867,CUST004,Spark Intro,86.77,2025-03-08,Credit Card,Chicago,Programming
+868,CUST077,Hadoop Advanced,309.92,2025-03-14,Cash,Seattle,Tech
+869,CUST060,Python for Data,117.81,2025-03-27,PayPal,Los Angeles,Tech
+870,CUST047,Spark Advanced,347.96,2025-03-06,Debit Card,Seattle,Programming
+871,CUST063,Hadoop Advanced,196.89,2025-03-26,Cash,New York,Programming
+872,CUST039,Big Data Essentials,228.32,2025-03-28,Credit Card,San Francisco,Programming
+873,CUST099,Hadoop Advanced,111.13,2025-03-09,Credit Card,New York,Programming
+874,CUST031,Python for Data,188.73,2025-03-21,Debit Card,Los Angeles,Programming
+875,CUST008,Spark Intro,170.42,2025-03-05,Cash,Chicago,Tech
+876,CUST018,Spark Intro,115.28,2025-03-28,Cash,New York,Programming
+877,CUST021,Spark Advanced,70.67,2025-03-09,Debit Card,Houston,Programming
+878,CUST062,Spark Intro,444.92,2025-03-23,Cash,Chicago,Tech
+879,CUST027,Hadoop Advanced,430.2,2025-03-16,Debit Card,Houston,Programming
+880,CUST094,Hadoop Basics,61.47,2025-03-26,Cash,Los Angeles,Programming
+881,CUST056,Spark Intro,229.66,2025-03-24,Debit Card,Houston,Big Data
+882,CUST024,Spark Intro,484.99,2025-03-27,Cash,Chicago,Tech
+883,CUST037,Python for Data,223.84,2025-03-01,Cash,Los Angeles,Big Data
+884,CUST081,Hadoop Basics,388.14,2025-03-19,Credit Card,Houston,Tech
+885,CUST092,Hadoop Basics,333.25,2025-03-23,Cash,New York,Big Data
+886,CUST033,Spark Intro,373.52,2025-03-01,Credit Card,Seattle,Programming
+887,CUST008,Big Data Essentials,206.75,2025-03-28,Debit Card,New York,Programming
+888,CUST053,Spark Advanced,248.72,2025-03-20,Cash,Chicago,Programming
+889,CUST045,Hadoop Advanced,187.27,2025-03-13,PayPal,Houston,Tech
+890,CUST043,Hadoop Basics,463.64,2025-03-22,Cash,Los Angeles,Big Data
+891,CUST074,Spark Advanced,188.35,2025-03-06,PayPal,Los Angeles,Tech
+892,CUST029,Big Data Essentials,371.92,2025-03-07,Credit Card,Chicago,Tech
+893,CUST026,Big Data Essentials,400.64,2025-03-04,Cash,New York,Tech
+894,CUST054,Hadoop Advanced,461.05,2025-03-02,Debit Card,Houston,Big Data
+895,CUST032,Big Data Essentials,343.96,2025-03-07,Credit Card,Los Angeles,Programming
+896,CUST051,Python for Data,445.71,2025-03-19,Cash,Houston,Big Data
+897,CUST013,Spark Advanced,323.39,2025-03-02,PayPal,Seattle,Programming
+898,CUST007,Spark Advanced,395.11,2025-03-12,Cash,Houston,Tech
+899,CUST023,Python for Data,373.5,2025-03-09,PayPal,New York,Big Data
+900,CUST094,Hadoop Advanced,442.19,2025-03-16,Debit Card,Houston,Big Data
+901,CUST069,Spark Advanced,93.13,2025-03-30,Credit Card,Houston,Programming
+902,CUST084,Hadoop Advanced,228.03,2025-03-30,Debit Card,Houston,Tech
+903,CUST073,Python for Data,293.17,2025-03-30,PayPal,New York,Tech
+904,CUST074,Spark Advanced,448.49,2025-03-02,Cash,Seattle,Tech
+905,CUST021,Hadoop Basics,413.83,2025-03-05,Credit Card,Houston,Big Data
+906,CUST063,Python for Data,260.93,2025-03-20,PayPal,Los Angeles,Tech
+907,CUST041,Hadoop Advanced,385.04,2025-03-02,Credit Card,New York,Big Data
+908,CUST094,Hadoop Advanced,124.04,2025-03-12,Credit Card,Seattle,Tech
+909,CUST057,Big Data Essentials,190.79,2025-03-19,Cash,New York,Programming
+910,CUST083,Hadoop Basics,61.09,2025-03-15,Credit Card,Chicago,Programming
+911,CUST098,Big Data Essentials,85.11,2025-03-23,Cash,Houston,Big Data
+912,CUST087,Python for Data,242.27,2025-03-08,Debit Card,Chicago,Tech
+913,CUST025,Hadoop Advanced,495.24,2025-03-20,Debit Card,Houston,Big Data
+914,CUST064,Python for Data,428.28,2025-03-22,Debit Card,Seattle,Programming
+915,CUST018,Spark Intro,118.7,2025-03-28,Credit Card,Houston,Tech
+916,CUST034,Spark Intro,228.28,2025-03-15,PayPal,New York,Big Data
+917,CUST059,Python for Data,380.35,2025-03-08,Cash,Seattle,Big Data
+918,CUST017,Hadoop Basics,153.33,2025-03-27,PayPal,New York,Programming
+919,CUST037,Spark Intro,76.63,2025-03-15,Cash,Seattle,Tech
+920,CUST012,Big Data Essentials,65.09,2025-03-21,Cash,Seattle,Programming
+921,CUST054,Spark Advanced,447.39,2025-03-08,Debit Card,Chicago,Programming
+922,CUST044,Python for Data,243.12,2025-03-12,Cash,Chicago,Big Data
+923,CUST059,Spark Advanced,491.63,2025-03-01,Cash,San Francisco,Programming
+924,CUST029,Hadoop Advanced,278.97,2025-03-16,Cash,Houston,Programming
+925,CUST047,Hadoop Advanced,283.62,2025-03-14,Debit Card,Seattle,Tech
+926,CUST060,Python for Data,126.78,2025-03-04,Debit Card,New York,Big Data
+927,CUST026,Hadoop Advanced,157.62,2025-03-14,PayPal,New York,Tech
+928,CUST012,Python for Data,221.66,2025-03-21,Debit Card,San Francisco,Tech
+929,CUST006,Spark Advanced,53.59,2025-03-16,Cash,New York,Big Data
+930,CUST072,Hadoop Advanced,98.5,2025-03-15,PayPal,Seattle,Programming
+931,CUST086,Spark Intro,189.27,2025-03-17,Credit Card,New York,Programming
+932,CUST034,Spark Intro,353.62,2025-03-02,Credit Card,Chicago,Big Data
+933,CUST037,Hadoop Advanced,443.87,2025-03-27,PayPal,Seattle,Tech
+934,CUST089,Big Data Essentials,179.87,2025-03-06,Cash,Houston,Big Data
+935,CUST003,Big Data Essentials,430.18,2025-03-11,PayPal,Los Angeles,Programming
+936,CUST077,Hadoop Advanced,129.91,2025-03-02,Debit Card,Houston,Tech
+937,CUST008,Spark Advanced,98.26,2025-03-27,PayPal,Chicago,Programming
+938,CUST082,Hadoop Basics,174.11,2025-03-30,Credit Card,San Francisco,Big Data
+939,CUST039,Spark Intro,170.64,2025-03-12,Credit Card,San Francisco,Big Data
+940,CUST073,Big Data Essentials,221.09,2025-03-28,Credit Card,Seattle,Tech
+941,CUST042,Big Data Essentials,100.25,2025-03-14,Cash,Houston,Tech
+942,CUST062,Spark Advanced,318.31,2025-03-09,Credit Card,San Francisco,Tech
+943,CUST012,Spark Advanced,85.37,2025-03-27,PayPal,Los Angeles,Big Data
+944,CUST045,Spark Advanced,289.25,2025-03-27,Cash,Los Angeles,Big Data
+945,CUST092,Spark Intro,435.78,2025-03-10,Debit Card,San Francisco,Tech
+946,CUST055,Spark Advanced,478.55,2025-03-08,Credit Card,Houston,Tech
+947,CUST080,Hadoop Advanced,56.31,2025-03-31,PayPal,New York,Programming
+948,CUST022,Hadoop Advanced,368.84,2025-03-02,PayPal,New York,Big Data
+949,CUST013,Spark Intro,432.31,2025-03-21,Cash,Los Angeles,Tech
+950,CUST087,Spark Intro,192.8,2025-03-05,Credit Card,Chicago,Programming
+951,CUST034,Python for Data,127.52,2025-03-07,Credit Card,Los Angeles,Tech
+952,CUST024,Hadoop Basics,400.84,2025-03-10,Credit Card,Seattle,Tech
+953,CUST092,Spark Intro,428.67,2025-03-10,Cash,Seattle,Big Data
+954,CUST090,Big Data Essentials,121.81,2025-03-23,Credit Card,San Francisco,Big Data
+955,CUST057,Hadoop Advanced,291.38,2025-03-17,Cash,Chicago,Tech
+956,CUST093,Spark Intro,461.5,2025-03-11,PayPal,New York,Big Data
+957,CUST049,Big Data Essentials,143.41,2025-03-24,Debit Card,San Francisco,Tech
+958,CUST070,Big Data Essentials,232.5,2025-03-15,PayPal,San Francisco,Programming
+959,CUST081,Hadoop Basics,430.25,2025-03-05,Credit Card,Chicago,Big Data
+960,CUST078,Hadoop Advanced,486.14,2025-03-05,Cash,New York,Big Data
+961,CUST076,Spark Advanced,407.56,2025-03-12,PayPal,New York,Programming
+962,CUST055,Spark Advanced,303.0,2025-03-12,Debit Card,Houston,Big Data
+963,CUST022,Python for Data,77.45,2025-03-04,PayPal,New York,Big Data
+964,CUST083,Hadoop Basics,88.71,2025-03-31,PayPal,Chicago,Programming
+965,CUST001,Python for Data,76.69,2025-03-21,Cash,Seattle,Big Data
+966,CUST034,Hadoop Basics,240.36,2025-03-02,Cash,Houston,Programming
+967,CUST039,Hadoop Basics,243.69,2025-03-18,PayPal,Los Angeles,Big Data
+968,CUST068,Spark Advanced,162.17,2025-03-18,Credit Card,San Francisco,Tech
+969,CUST058,Hadoop Basics,65.09,2025-03-11,PayPal,New York,Programming
+970,CUST041,Python for Data,55.77,2025-03-27,Debit Card,New York,Tech
+971,CUST080,Hadoop Basics,237.05,2025-03-29,PayPal,New York,Programming
+972,CUST083,Big Data Essentials,91.2,2025-03-25,PayPal,Houston,Tech
+973,CUST055,Spark Intro,356.09,2025-03-24,Cash,Los Angeles,Tech
+974,CUST086,Spark Intro,139.1,2025-03-12,Debit Card,New York,Big Data
+975,CUST053,Hadoop Basics,414.08,2025-03-25,Cash,San Francisco,Big Data
+976,CUST076,Python for Data,398.25,2025-03-08,Cash,Los Angeles,Tech
+977,CUST055,Python for Data,338.65,2025-03-26,Debit Card,Los Angeles,Programming
+978,CUST017,Python for Data,95.3,2025-03-28,Credit Card,Houston,Big Data
+979,CUST093,Spark Advanced,149.2,2025-03-14,Cash,Houston,Programming
+980,CUST098,Python for Data,423.25,2025-03-18,PayPal,New York,Tech
+981,CUST087,Spark Intro,226.4,2025-03-30,Cash,Los Angeles,Big Data
+982,CUST088,Hadoop Basics,340.92,2025-03-03,Credit Card,Los Angeles,Tech
+983,CUST068,Spark Advanced,225.99,2025-03-01,PayPal,San Francisco,Big Data
+984,CUST055,Spark Intro,121.42,2025-03-13,Cash,Los Angeles,Big Data
+985,CUST068,Hadoop Advanced,341.32,2025-03-12,Debit Card,Chicago,Programming
+986,CUST057,Python for Data,168.65,2025-03-20,PayPal,Houston,Programming
+987,CUST100,Spark Intro,126.59,2025-03-22,Cash,Seattle,Big Data
+988,CUST065,Python for Data,166.45,2025-03-26,Credit Card,Seattle,Programming
+989,CUST074,Spark Intro,226.02,2025-03-13,Debit Card,Los Angeles,Programming
+990,CUST003,Big Data Essentials,147.4,2025-03-07,Debit Card,Chicago,Big Data
+991,CUST083,Big Data Essentials,223.0,2025-03-20,PayPal,Los Angeles,Tech
+992,CUST072,Big Data Essentials,266.08,2025-03-08,Cash,San Francisco,Big Data
+993,CUST002,Spark Intro,143.51,2025-03-07,Debit Card,New York,Big Data
+994,CUST091,Hadoop Advanced,279.24,2025-03-23,Cash,Seattle,Programming
+995,CUST062,Spark Advanced,322.76,2025-03-05,Debit Card,New York,Big Data
+996,CUST068,Big Data Essentials,122.91,2025-03-03,Cash,Los Angeles,Tech
+997,CUST081,Hadoop Basics,467.37,2025-03-23,Cash,New York,Big Data
+998,CUST034,Spark Advanced,233.18,2025-03-29,Credit Card,Seattle,Big Data
+999,CUST016,Big Data Essentials,108.85,2025-03-16,Credit Card,Los Angeles,Programming
+1000,CUST004,Hadoop Basics,376.95,2025-03-17,Cash,Chicago,Tech

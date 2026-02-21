@@ -145,7 +145,11 @@ def process_data():
             ROUND(SUM(amount), 2) as total_revenue
         FROM transactions
         WHERE product LIKE '%Hadoop%' OR product LIKE '%Spark%'
-        GROUP BY TRIM(category)
+        GROUP BY 
+            CASE
+                WHEN product LIKE '%Hadoop%' THEN 'Hadoop'
+                WHEN product LIKE '%Spark%' THEN 'Spark'
+            END
         ORDER BY total_revenue DESC
                    """)
     

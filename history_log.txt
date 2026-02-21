@@ -1,7 +1,7 @@
-commit 9c6612da229dc51299d2aa3241405e9a807978b0
+commit 815401e310e128b76abd3bd01bfd31cd08fda067
 Author: Joseph Curtis <3443776+joseph-curtis@users.noreply.github.com>
-Date:   Fri Feb 20 19:54:09 2026 -0800
+Date:   Fri Feb 20 22:55:06 2026 -0800
 
-    added .gitignore & module files
+    Added SQL queries and terminal output
 
- 6 files changed, 246 insertions(+)
+ 3 files changed, 131 insertions(+), 13 deletions(-)

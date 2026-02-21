@@ -1,7 +1,7 @@
-commit 1f641a0b1aac2c3dc9c9ae0028c5cc89d942822e
+commit 695bd8d62eaebe0c775eee2060dbea96411c1166
 Author: Joseph Curtis <3443776+joseph-curtis@users.noreply.github.com>
-Date:   Fri Feb 20 23:21:05 2026 -0800
+Date:   Fri Feb 20 23:50:45 2026 -0800
 
-    Changed SQL query to for top customers in each city to fix duplication bug -- now uses Common Table Expressions for customer spending and rank order
+    Updated output formatting
 
- 3 files changed, 18 insertions(+), 20 deletions(-)
+ 3 files changed, 11 insertions(+), 11 deletions(-)

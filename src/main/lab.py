@@ -154,7 +154,7 @@ def process_data():
                    """)
     
     hadoop_spark_sales = cursor.fetchall()
-    print("\n🐘 Hadoop vs ⚡ Spark Related Product Sales:")
+    print("\n🐘 Hadoop vs 🎇 Spark Related Product Sales:")
     for row in hadoop_spark_sales:
         print(f"  Category: {row[0]:<6} | Transactions: {row[1]:>3} | Total Revenue: ${row[2]:>9,.2f}")
 
